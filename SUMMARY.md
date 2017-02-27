@@ -1,6 +1,6 @@
 # Summary
 
 * [Einleitung](README.md)
-* [Begriffe](first-question.md)
+* [Begriffe](0-1_begriffe.md)
 * [Getaggter realer Inhalt](second-question.md)
 
