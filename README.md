@@ -2,7 +2,7 @@
 
 Dieses Gitbook ist eine Sammlung von Anleitungen um barrierefreie PDFs herzustellen. Da die Inhalte als Nachschlagewerk dienen, wurde das FAQ Template verwendet. Die einzelnen Artikel sind gemäss den Prüfpunkten des [Matterhorn Protokolls](/0-2_begriffe.md) strukturiert.
 
-Diese Sammlung enthält Lösungen, welche mit folgender Software umgesetzt werden kann:
+Diese Sammlung enthält Lösungen, welche mit folgender Software umgesetzt werden können:
 * Adobe Acrobat
 * Microsoft Word
 * Adobe InDesign
