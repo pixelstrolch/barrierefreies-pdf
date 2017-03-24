@@ -12,7 +12,7 @@ Wenn du eine Frage hast oder einfach dein Feedback teilen möchtest, kannst du [
 
 ### Collaborator werden und Change Requests einreichen
 
-Hast du konkrete Ideen um Inhalte zu verbessern oder zu ergänzen, kannst du dich [bei mir melden](mailto:email@pixelstrol.ch) damit ich dich als Collaborator eintragen kann. So kannst du Änderungen vornehmen und einen sogenannten «[Change Request](https://www.gitbook.com/book/pixelstrolch/barrierefreies-pdf/changes)» direkt auf Gitbook einreichen.
+Hast du konkrete Ideen um Inhalte zu verbessern oder zu ergänzen, kannst du dich [bei mir melden](mailto:email@pixelstrol.ch) damit ich dich als Collaborator eintragen kann. So kannst du einen sogenannten «[Change Request](https://www.gitbook.com/book/pixelstrolch/barrierefreies-pdf/changes)» direkt auf Gitbook einreichen. So können Änderungen überprüft und allenfalls diskutiert werden. [Mehr über Change Requests.](https://help.gitbook.com/books/what-are-change-requests.html)
 
 ### Ein Pull-Request auf Github einreichen
 
