@@ -8,5 +8,9 @@ Diese Sammlung enthält Lösungen, welche mit folgender Software umgesetzt werde
 * Microsoft Word
 * Adobe InDesign
 
-[![](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung 4.0 International Lizenz](http://creativecommons.org/licenses/by/4.0/).
+---
+
+[![](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung 4.0 International Lizenz](http://creativecommons.org/licenses/by/4.0/). 
+
+_Diese Inhalte sind gemäss Schweizer Typografie-Regeln und Rechtschreibung. Sie enthalten Guillemets Anführungszeichen \(« »\) und keine Eszett \(_[_ß_](https://de.wikipedia.org/wiki/%C3%9F)_\). _
 
