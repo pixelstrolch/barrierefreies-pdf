@@ -1,15 +1,17 @@
 In diesem Abschnitt werden Begriffe erklärt. Es wird empfohlen sich mit diesen vertraut zu machen. So können die einzelnen Problem- und Lösungsbeschreibungen besser verstanden werden.
 
-## Barrierefrei
+## barrierearm
 
-Wenn ein PDF-Dokument barrierefrei ist, 
+siehe [barrierefrei](#barrierefrei)
+
+## barrierefrei
+
+Wenn ein PDF-Dokument barrierefrei ist,
 
 * werden keine Menschen aufgrund einer Schwäche oder Behinderung ausgeschlossen
 * kann es durch assistive Technologie \(AT\) korrekt und komplett gelesen werden 
 * dürfen keine schwachen oder ungeeignete Farbkontraste enthalten sein
 * werden Alternativtexte verwendet um relevante Bilder und Grafiken zu beschreiben
-
-Es kann auch von einem zugänglichen oder barrierearmen Dokument gesprochen werden.
 
 ## Matterhorn Protokoll
 
@@ -18,4 +20,12 @@ Das [Matterhorn Protokoll](https://www.pdfa.org/publication/matterhorn-protokoll
 ## PAC 2
 
 PAC 2 ist das umfangreichste und kostenlose Prüftool um PDFs auf dessen Zugänglichkeit zu testen. Es prüft ob ein Dokument den PDF/UA Standard erfüllt. Dazu werden die maschinell prüfbaren Punkte ausgewertet. Prüfpunkte, welche interaktiv getestet werden müssen, können mithilfe der enthaltenen Screenreader-Simulation geprüft werden. PAC 2 wird durch die Schweizer Stiftung «Zugang für alle» vertrieben. Sie kann zurzeit nur auf einem Windows Betriebssystem installiert werden.
+
+## PDF/UA
+
+PDF/UA ist der ISO-Standard 14289-1. Dieser Standard definiert Anforderungen an die Barrierefreiheit des PDF-Dokuments. Er richtet sich an Herstellerfirmen von Software und assistiver Technologie. Um ein Dokument nach PDF/UA zu prüfen muss nicht zwingend ISO-Dokumentation erworben werden. Das [Matterhorn Protokoll](#matterhorn-protokoll) enthält die benötigten Prüfpunkte und ist kostenlos.
+
+## Zugänglichkeit
+
+siehe [barrierefrei](#barrierefrei)
 
