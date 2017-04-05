@@ -1,5 +1,3 @@
-[«Barrierefreies PDF» lesen](https://pixelstrolch.gitbooks.io/barrierefreies-pdf/content/) \| [«Barrierefreies PDF» auf Gitbook](https://www.gitbook.com/book/pixelstrolch/barrierefreies-pdf/details)
-
 Dieses Gitbook ist eine Sammlung von Anleitungen um barrierefreie PDFs herzustellen. Die einzelnen Artikel sind gemäss den Prüfpunkten des [Matterhorn Protokolls](https://www.gitbook.com/0-2_begriffe.md) strukturiert.
 
 Diese Sammlung enthält Lösungen, welche mit folgender Software umgesetzt werden können:
