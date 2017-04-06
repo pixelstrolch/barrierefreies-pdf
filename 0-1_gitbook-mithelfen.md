@@ -4,7 +4,7 @@ Gitbook ist eine offene Plattform um Bücher zu veröffentlichen. Wie es der Nam
 
 ## Wie kann ich mithelfen und Verbesserungen anbringen?
 
-Diese Sammlung soll aktuell bleiben und stets verbessert werden. Wenn du mithelfen möchtest, gibt es mehrere Möglichkeiten:
+Mein Ziel ist es diese Sammlung aktuell zu halten und stets zu verbessern. Für dein Feedback und deine Hilfe an diesem Projekt bin ich sehr dankbar.
 
 ### Eine Diskussion auf Gitbook starten
 
@@ -13,10 +13,4 @@ Wenn du eine Frage hast oder einfach dein Feedback teilen möchtest, kannst du [
 ### Collaborator werden und Change Requests einreichen
 
 Hast du konkrete Ideen um Inhalte zu verbessern oder zu ergänzen, kannst du dich [bei mir melden](mailto:email@pixelstrol.ch) damit ich dich als Collaborator eintragen kann. So kannst du einen sogenannten «[Change Request](https://www.gitbook.com/book/pixelstrolch/barrierefreies-pdf/changes)» direkt auf Gitbook einreichen. So können Änderungen überprüft und allenfalls diskutiert werden. [Mehr über Change Requests.](https://help.gitbook.com/books/what-are-change-requests.html)
-
-### Ein Pull-Request auf Github einreichen
-
-Für diejenigen, welche bereits auf Github unterwegs sind, können auch einen Pull-Request einreichen. Um neue Inhalte hinzuzufügen, ist jedoch der Weg über Gitbook der bessere.
-
-**Vielen Dank für deine wertvolle Unterstützung!**
 
