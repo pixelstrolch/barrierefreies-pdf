@@ -1,4 +1,4 @@
-Dieses Gitbook ist eine Sammlung von Anleitungen um barrierefreie PDFs herzustellen. Die einzelnen Artikel sind gemäss den Prüfpunkten des [Matterhorn Protokolls](https://www.gitbook.com/0-2_begriffe.md) strukturiert.
+Dieses Gitbook ist eine Sammlung von Anleitungen um barrierefreie PDFs herzustellen. Die einzelnen Problembeschreibungen sind gemäss den Prüfpunkten des [Matterhorn Protokolls](/0-2_begriffe.md) geordnet.
 
 Diese Sammlung enthält Lösungen, welche mit folgender Software umgesetzt werden können:
 
