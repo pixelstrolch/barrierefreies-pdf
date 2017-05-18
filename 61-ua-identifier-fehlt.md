@@ -4,12 +4,14 @@
 
 Damit ein PDF-Dokument als technisch barrierefrei gilt, muss die Metainformation vorhanden sein, welche das Dokument als PDF/UA kompatibel kennzeichnet.
 
-PAC 2 gibt bei diesem Problem die Fehlermeldung _**«PDF/UA identifier missing»**_ aus.
-
 Problem festgestellt bei der PDF-Konvertierung aus:
 
 * Microsoft Word alle Versionen
 * Adobe InDesign alle Versionen
+
+### PAC 2 Fehlermeldung 
+
+> PDF/UA identifier missing
 
 ### **Prüfpunkt/e Matterhorn Protokoll**
 
