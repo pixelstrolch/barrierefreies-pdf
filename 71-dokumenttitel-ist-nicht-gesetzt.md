@@ -6,8 +6,8 @@ In den PDF-Dokumenteigenschaften kann definiert werden ob das Dokument mit dem D
 
 Problem festgestellt bei der PDF-Konvertierung aus:
 
-* Microsoft Word alle Versionen
-* Adobe InDesign alle Versionen \(kann ab Version CC 2015 beim Export definiert werden\)
+* Microsoft Word 2013 für Windows
+* Adobe InDesign bis CC 2015 \(ab Version CC 2015 steht eine Option im Exportfenster zur Verfügung\)
 
 ### PAC 2 Fehlermeldung
 
@@ -29,9 +29,11 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 3. In das Register _Ansicht beim Öffnen_ wechseln und unter _Einblenden_ den Wert auf _Dokumenttitel_ wechseln
 
+![](/assets/pdf_acrobat_dokumenttitel.gif)
+
 ## Automatischer Lösungsweg in InDesign \(ab Version CC 2015\)
 
-![](blob:https://www.gitbook.com/65b726d4-2675-44dc-9d8d-e042a30b0bd6)
+![](/assets/icon_indesign.jpg)
 
 Seit Adobe InDesign CC 2015 wird in den PDF-Export-Einstellungen ein neuer Bereich mit dem Namen _Barrierefreiheitsoptionen_ im Register _Erweitert_ angezeigt. Darin kann der anzuzeigende Namen in _Dokumenttitel_ geändert werden.
 
