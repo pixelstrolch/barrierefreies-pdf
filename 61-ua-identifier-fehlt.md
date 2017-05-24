@@ -21,28 +21,21 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 ## Manueller Lösungsweg in Acrobat ![](/assets/icon_acrobat.jpg)
 
 1. Die Datei [pdfUA-ID.xmp herunterladen](https://taggedpdf.com/xmp/pdfUA-ID.xmp)
-
 2. Das betroffene Dokument in Acrobat öffnen
-
 3. Die Dokumenteigenschaften anzeigen \(Datei → Eigenschaften\)
+4. In das Register _«Beschreibung»_ wechseln und den Button _«Zusätzliche Metadaten»_ klicken
+5. In das Register _«Erweitert»_ wechseln und den Button _«Anhängen»_ klicken
+6. Die vorgängig heruntergeladene Datei _«pdfUA-ID.xmp»_ auswählen und «Öffnen» klicken
 
-4. In das Register «Beschreibung» wechseln und den Button «Zusätzliche Metadaten» klicken
+## Automatischer Lösungsweg in Acrobat DC ![](/assets/icon_acrobat.jpg)
 
-5. In das Register «Erweitert» wechseln und den Button «Anhängen» klicken
+1. Das Werkzeug-Register _«Druckproduktion»_ öffnen und auf _«Preflight»_ klicken
+2. Im Preflight-Fenster die Preflight Korrekturen anzeigen \(auf den kleinen Button mit dem Schraubenschlüssel Symbol klicken\)
+3. Die Korrektur _«PDF/UA-1-Eintrag setzen»_ auswählen und auf den Button _«Korrigieren»_ klicken
 
-6. Die vorgängig heruntergeladene Datei «pdfUA-ID.xmp» auswählen und «Öffnen» klicken
+Diese Korrektur ist ausserdem Bestandteil des Preflight-Profils _«Strukturprobleme getaggter PDF-Dokumente beheben»_.
 
-## Manueller Lösungsweg in Acrobat DC ![](/assets/icon_acrobat.jpg)
-
-1. Das Werkzeug-Register «Druckproduktion» öffnen und auf «Preflight» klicken
-
-2. Im Preflight-Fenster auf den kleinen Button mit dem Schraubenschlüssel Symbol klicken
-
-3. In die Gruppe «Dokumentinformationen und Metadaten» navigieren
-
-4. Das Profil «PDF/UA-1-Eintrag setzen» auswählen und auf den Button «Korrigieren» klicken
-
-## Automatischer Lösungsweg in InDesign ![](/assets/icon_indesign.jpg)
+## Automatischer Lösungsweg in InDesign \(mit Plugin MadeToTag\) ![](/assets/icon_indesign.jpg)
 
 Mit der Verwendung des Plugins MadeToTag wird die Metadaten-Information automatisch angehängt.
 
