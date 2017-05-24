@@ -1,6 +1,4 @@
-## Problembeschreibung
-
-![](/assets/icon_word.jpg)  ![](/assets/icon_indesign.jpg)
+## Problembeschreibung ![](/assets/icon_word.jpg) ![](/assets/icon_indesign.jpg)
 
 Damit ein PDF-Dokument als technisch barrierefrei gilt, muss die Metainformation vorhanden sein, welche das Dokument als PDF/UA kompatibel kennzeichnet.
 
@@ -18,9 +16,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 > **06-002** Der Metadata-Datenstrom im Catalog-Dictionary enthält keine PDF/UA-Kennzeichnung.  
 > **→ automatische/technische Prüfung**
 
-## Manueller Lösungsweg in Acrobat
-
-## ![](/assets/icon_acrobat.jpg)
+## Manueller Lösungsweg in Acrobat ![](/assets/icon_acrobat.jpg)
 
 1. Die Datei [pdfUA-ID.xmp herunterladen](https://taggedpdf.com/xmp/pdfUA-ID.xmp)
 
@@ -34,9 +30,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 6. Die vorgängig heruntergeladene Datei «pdfUA-ID.xmp» auswählen und «Öffnen» klicken
 
-## Manueller Lösungsweg in Acrobat DC
-
-## ![](/assets/icon_acrobat.jpg)
+## Manueller Lösungsweg in Acrobat DC ![](/assets/icon_acrobat.jpg)
 
 1. Das Werkzeug-Register «Druckproduktion» öffnen und auf «Preflight» klicken
 
@@ -46,9 +40,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 4. Das Profil «PDF/UA-1-Eintrag setzen» auswählen und auf den Button «Korrigieren» klicken
 
-## Automatischer Lösungsweg in InDesign
-
-![](/assets/icon_indesign.jpg)
+## Automatischer Lösungsweg in InDesign ![](/assets/icon_indesign.jpg)
 
 Mit der Verwendung des Plugins MadeToTag wird die Metadaten-Information automatisch angehängt.
 
