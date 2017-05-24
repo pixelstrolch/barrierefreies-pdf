@@ -17,6 +17,8 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 > **07-002** Das ViewerPreferences-Dictionary des Catalog-Dictionary enthält einen Schlüssel DisplayDocTitle mit dem Wert false.  
 > **→ automatische/technische Prüfung**
 
+---
+
 ## Manueller Lösungsweg in Acrobat ![](/assets/icon_acrobat.jpg)
 
 1. Das betroffene Dokument in Acrobat öffnen
@@ -25,7 +27,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 3. In das Register _Ansicht beim Öffnen_ wechseln und unter _Einblenden_ den Wert auf _Dokumenttitel_ wechseln
 
-## Automatischer Lösungsweg in InDesign \(ab Version CC 2015\) ![](/assets/icon_indesign.jpg)
+## Automatischer Lösungsweg in InDesign \(ab CC 2015\) ![](/assets/icon_indesign.jpg)
 
 Seit Adobe InDesign CC 2015 wird in den PDF-Export-Einstellungen ein neuer Bereich mit dem Namen _Barrierefreiheitsoptionen_ im Register _Erweitert_ angezeigt. Darin kann der anzuzeigende Namen in _Dokumenttitel_ geändert werden.
 

@@ -4,3 +4,7 @@
 .breadcrumb {
     margin-bottom: 30px;
 }
+.faq-page hr {
+    height: 2px;
+    margin: 3em 0;
+}
