@@ -29,8 +29,6 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 3. In das Register _Ansicht beim Öffnen_ wechseln und unter _Einblenden_ den Wert auf _Dokumenttitel_ wechseln
 
-![](/assets/pdf_acrobat_dokumenttitel.gif)
-
 ## Automatischer Lösungsweg in InDesign \(ab Version CC 2015\)
 
 ![](/assets/icon_indesign.jpg)

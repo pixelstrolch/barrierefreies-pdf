@@ -6,10 +6,10 @@ Damit ein PDF-Dokument als technisch barrierefrei gilt, muss die Metainformation
 
 Problem festgestellt bei der PDF-Konvertierung aus:
 
-* Microsoft Word alle Versionen
+* Microsoft Word 2013 für Windows
 * Adobe InDesign alle Versionen
 
-### PAC 2 Fehlermeldung 
+### PAC 2 Fehlermeldung
 
 > PDF/UA identifier missing
 
