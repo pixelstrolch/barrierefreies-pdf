@@ -16,6 +16,8 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 > **06-002** Der Metadata-Datenstrom im Catalog-Dictionary enthält keine PDF/UA-Kennzeichnung.  
 > **→ automatische/technische Prüfung**
 
+---
+
 ## Manueller Lösungsweg in Acrobat ![](/assets/icon_acrobat.jpg)
 
 1. Die Datei [pdfUA-ID.xmp herunterladen](https://taggedpdf.com/xmp/pdfUA-ID.xmp)
