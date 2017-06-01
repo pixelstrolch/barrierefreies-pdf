@@ -35,7 +35,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 Diese Korrektur ist ausserdem Bestandteil des Preflight-Profils _«Strukturprobleme getaggter PDF-Dokumente beheben»_.
 
-## Automatischer Lösungsweg in InDesign \(mit Plugin MadeToTag\) ![](/assets/icon_indesign.jpg)
+## Automatischer Lösungsweg in InDesign \(MadeToTag\) ![](/assets/icon_indesign.jpg)
 
 Mit der Verwendung des Plugins MadeToTag wird die Metadaten-Information automatisch angehängt.
 
