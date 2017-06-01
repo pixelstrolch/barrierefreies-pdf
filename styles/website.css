@@ -1,5 +1,6 @@
 .panel-body {
     padding: 30px;
+    position: relative;
 }
 .breadcrumb {
     margin-bottom: 30px;
@@ -10,4 +11,17 @@
 }
 .faq-page h2 {
     line-height: 1.3;
+}
+@media (min-width: 841px) {
+    .faq-page h2 > img {
+        background: white;
+        left: -14px;
+        padding: 5px 0;
+        position: absolute;
+    }
+}
+@media (max-width: 840px) {
+    .faq-page h2 > img {
+        vertical-align: -.2em;
+    }
 }
