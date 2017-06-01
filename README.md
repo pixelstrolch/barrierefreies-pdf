@@ -8,7 +8,8 @@ Diese Sammlung enthält Lösungen, welche mit folgender Software umgesetzt werde
 
 ---
 
-[![](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung 4.0 International Lizenz](http://creativecommons.org/licenses/by/4.0/).
+<aside class="license">
+<p><a href="http://creativecommons.org/licenses/by/4.0/"><img src="https://i.creativecommons.org/l/by/4.0/80x15.png"/></a> Dieses Werk ist lizenziert unter einer <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.</p>
 
-_Erstellt nach Schweizer Typografie- und Rechtschreibregeln._
-
+<p>Erstellt nach Schweizer Typografie- und Rechtschreibregeln.</p>
+</aside>

@@ -1,4 +1,4 @@
-## Problembeschreibung ![](/assets/icon_word.jpg) ![](/assets/icon_indesign.jpg)
+## Problembeschreibung ![](/assets/icon_word.gif)![](/assets/icon_indesign.gif)
 
 In den PDF-Dokumenteigenschaften kann definiert werden ob das Dokument mit dem Dateinamen oder dem Dokumenttitel angezeigt wird. Dieser erscheint im PDF-Viewer als Name des Dokumentfensters oder wird mit einem Screenreader als erste Information vorgelesen. PDFs, welche aus Microsoft Word und Adobe InDesign hergestellt werden, zeigen den Dateinamen. Nach PDF/UA ist jedoch der Dokumenttitel einzustellen da dieser aussagekräftiger ist.
 
