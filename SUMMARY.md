@@ -24,4 +24,6 @@
 
 * [13.1 Kein Figure-Tag im Kompatibilitätsmodus](kein-figure-tag-fur-bild.md)
 * [13.2 Getaggte Bilder in Kopf- und Fusszeile](132-getaggte-bilder-in-kopf-und-fusszeile.md)
+* [13.3 Abbildung fehlt Bounding Box](133-abbildung-fehlt-bounding-box.md)
+* [13.4 Figure als Block-Element](134-abbildung-als-block-element.md)
 
