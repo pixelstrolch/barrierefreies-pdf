@@ -20,3 +20,7 @@
 
 * [7.1 Dokumenttitel ist nicht gesetzt](71-dokumenttitel-ist-nicht-gesetzt.md)
 
+## 13. Grafiken
+
+* [13.1 Kein Figure-Tag im Kompatibilitätsmodus](kein-figure-tag-fur-bild.md)
+
