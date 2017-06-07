@@ -6,9 +6,9 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 * Microsoft Word 2013 für Windows \(im Kompatibilitätsmodus\)
 
-### PAC 2 Fehlermeldung
+### PAC 2 Warnung
 
-Keine Warnung oder Fehlermeldung zu diesem Problem!
+> Possibly inappropriate use of a Sect structure element
 
 ### **Prüfpunkt/e Matterhorn Protokoll**
 
