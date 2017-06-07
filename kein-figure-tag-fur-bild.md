@@ -8,7 +8,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 ### PAC 2 Fehlermeldung
 
-Keine Warnung oder Fehlermeldung!
+Keine Warnung oder Fehlermeldung zu diesem Problem!
 
 ### **Prüfpunkt/e Matterhorn Protokoll**
 
