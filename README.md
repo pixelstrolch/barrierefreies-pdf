@@ -9,7 +9,7 @@ Diese Sammlung enthält Lösungen, welche mit folgender Software umgesetzt werde
 ---
 
 <aside class="license">
-<a href="http://creativecommons.org/licenses/by/4.0/"><img src="https://i.creativecommons.org/l/by/4.0/80x15.png"/></a> Dieses Werk ist lizenziert unter einer <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
+<p><a href="http://creativecommons.org/licenses/by/4.0/"><img src="https://i.creativecommons.org/l/by/4.0/80x15.png"/></a> Dieses Werk ist lizenziert unter einer <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.</p>
 
-_Erstellt nach Schweizer Typografie- und Rechtschreibregeln._
+<p><em>Erstellt nach Schweizer Typografie- und Rechtschreibregeln.</em></p>
 </aside>
