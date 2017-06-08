@@ -89,7 +89,6 @@ a:focus, a:hover {
 }
 .faq-page h2 {
     line-height: 1.3;
-    position: relative;
 }
 .faq-page h2 > img {
     vertical-align: -.2em;
