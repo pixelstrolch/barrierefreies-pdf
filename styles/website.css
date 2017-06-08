@@ -65,6 +65,7 @@ a:focus, a:hover {
 }
 
 .faq-header {
+    margin-bottom: 20px;
     padding: 80px 0;
 }
 .faq-header .description {
