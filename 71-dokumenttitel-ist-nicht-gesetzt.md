@@ -37,7 +37,7 @@ Diese Korrektur ist ausserdem Bestandteil des Preflight-Profils «_Strukturprobl
 
 Seit Adobe InDesign CC 2015 wird in den PDF-Export-Einstellungen ein neuer Bereich mit dem Namen _«Barrierefreiheitsoptionen»_ im Register _«Erweitert»_ angezeigt. Darin kann der anzuzeigende Namen in _Dokumenttitel_ geändert werden.
 
-## Automatischer Lösungsweg in InDesign \(mit Plugin MadeToTag\) ![](/assets/icon_indesign.jpg)
+## Automatischer Lösungsweg in InDesign \(MadeToTag\) ![](/assets/icon_indesign.jpg)
 
 Mit der Verwendung des Plugins MadeToTag wird der Dokumenttitel automatisch definiert.
 
