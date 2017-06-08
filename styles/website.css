@@ -23,6 +23,7 @@ a:focus, a:hover {
 }
 .faq-page {
     font-size: inherit;
+    overflow: visible;
 }
 .navbar-default {
     background-color: #12b886;
@@ -94,8 +95,9 @@ a:focus, a:hover {
 @media (min-width: 841px) {
     .faq-page h2 > img {
         background: white;
-        left: -30px;
+        left: -45px;
         position: absolute;
+        top: 5px;
     }
 }
 @media (max-width: 840px) {
