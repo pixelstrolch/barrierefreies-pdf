@@ -26,6 +26,10 @@ a:focus, a:hover {
 }
 .navbar-default {
     background-color: #12b886;
+    box-shadow: 0 2px 6px #ccc;
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
 }
 .navbar-default .navbar-brand, .navbar-default .navbar-nav > li > a {
     border-bottom: none;
@@ -40,7 +44,11 @@ a:focus, a:hover {
     .navbar-nav>li>a {
         padding: 15px 10px;
     }
+    .navbar {
+    border-radius: 0;
+
 }
+
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
     background: #fff;
     color: #12b886;
@@ -56,6 +64,9 @@ a:focus, a:hover {
     background-color: #087f5b;
 }
 
+.faq-header {
+    padding: 80px 0;
+}
 .faq-header .description {
     color: inherit;
     text-align: left;
