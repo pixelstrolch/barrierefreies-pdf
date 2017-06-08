@@ -12,9 +12,24 @@ body {
         font-size: 1.125rem;
     }
 }
+a, .faq-page a {
+    border-bottom: 1px solid;
+    color: #12b886;
+}
+a:focus, a:hover {
+    color: #087f5b;
+    text-decoration: none;
+    border-bottom: none;
+}
 .faq-page {
     font-size: inherit;
 }
+.navbar-default {
+    background-color: #12b886;
+}
+.navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #fff;
+} 
 .faq-header .description {
     color: inherit;
     text-align: left;
@@ -46,4 +61,7 @@ body {
     .faq-page h2 > img {
         vertical-align: -.2em;
     }
+}
+.faq-page-footer {
+    font-size: .875rem;
 }
