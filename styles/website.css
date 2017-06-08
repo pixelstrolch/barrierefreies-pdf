@@ -4,6 +4,7 @@ body {
 }
 .faq-header .description {
     color: inherit;
+    text-align: left;
 }
 .panel-body {
     padding: 30px;
