@@ -12,6 +12,9 @@ body {
         font-size: 1.125rem;
     }
 }
+.faq-page {
+    font-size: inherit;
+}
 .faq-header .description {
     color: inherit;
     text-align: left;
