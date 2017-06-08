@@ -32,7 +32,21 @@ a:focus, a:hover {
 }
 .navbar-default .navbar-brand, .navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
     color: #fff;
-} 
+}
+@media (min-width: 768px) {
+    .navbar-right {
+        font-size: .875rem;
+    }
+    .navbar-nav>li>a {
+        padding: 15px 10px;
+    }
+}
+.navbar-default .navbar-toggle {
+    border-color: #fff;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
 .faq-header .description {
     color: inherit;
     text-align: left;
