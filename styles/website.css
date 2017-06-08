@@ -72,6 +72,9 @@ a:focus, a:hover {
     text-align: left;
     line-height: inherit;
 }
+.license {
+    font-size: .875rem;
+}
 .panel-body {
     padding: 30px;
     position: relative;
