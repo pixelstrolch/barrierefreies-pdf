@@ -30,7 +30,7 @@ a:focus, a:hover {
 .navbar-default .navbar-brand, .navbar-default .navbar-nav > li > a {
     border-bottom: none;
 }
-.navbar-default .navbar-brand, .navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+.navbar-default .navbar-brand, .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover, .navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
     color: #fff;
 }
 @media (min-width: 768px) {
@@ -41,12 +41,20 @@ a:focus, a:hover {
         padding: 15px 10px;
     }
 }
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    border-bottom: 2px solid;
+}
+
 .navbar-default .navbar-toggle {
     border-color: #fff;
 }
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #fff;
 }
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #087f5b;
+}
+
 .faq-header .description {
     color: inherit;
     text-align: left;
