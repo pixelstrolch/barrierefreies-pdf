@@ -1,4 +1,4 @@
-## Problembeschreibung ![](/assets/icon_word.jpg)
+## Problembeschreibung ![](/assets/icon_word.gif)
 
 Ein Bild wird in Word **im Kompatibilitätsmodus** \(.doc\) eingefügt und mit der Layoutoption _**«Mit Text in Zeile»**_ platziert. Nach dem PDF-Export ist das Bild nicht wie erwartet innerhalb eines `<Figure>` Tags, sondern innerhalb eines `<InlineShape>`, welchem die  Rolle `<Sect>` zugeordnet ist.
 
@@ -23,7 +23,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 2. Der nicht standardisierte Tag `<InlineShape>` wird so zu einem `<Figure>` umgewandelt. 
 3. Der Alternativtext wird automatisch übernommen.
 
-## Automatischer Lösungsweg in Word 2013 ![](/assets/icon_word.jpg)
+## Automatischer Lösungsweg in Word 2013 ![](/assets/icon_word.gif)
 
 Da das Problem nur im _.doc-Format_, respektive im Kompatibilitätsmodus besteht, kann das Dokument in das neuere _.docx-Format_ konvertiert werden. Der Befehl _«Konvertieren»_ befindet sich im Menü _«Datei»_ im Register _«Informationen»_.
 

@@ -19,13 +19,13 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 ---
 
-## Manueller Lösungsweg in Acrobat ![](/assets/icon_acrobat.jpg)
+## Manueller Lösungsweg in Acrobat ![](/assets/icon_acrobat.gif)
 
 1. Das betroffene Dokument in Acrobat öffnen
 2. Die Dokumenteigenschaften anzeigen \(Datei → Eigenschaften\)
 3. In das Register «_Ansicht beim Öffnen»_ wechseln und unter «_Einblenden»_ den Wert auf «_Dokumenttitel»_ wechseln
 
-## Automatischer Lösungsweg in Acrobat DC ![](/assets/icon_acrobat.jpg)
+## Automatischer Lösungsweg in Acrobat DC ![](/assets/icon_acrobat.gif)
 
 1. Das Werkzeug-Register _«Druckproduktion»_ öffnen und auf _«Preflight»_ klicken
 2. Im Preflight-Fenster die Preflight Korrekturen anzeigen \(auf den kleinen Button mit dem Schraubenschlüssel Symbol klicken\)
@@ -33,11 +33,11 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 Diese Korrektur ist ausserdem Bestandteil des Preflight-Profils «_Strukturprobleme getaggter PDF-Dokumente beheben»_.
 
-## Automatischer Lösungsweg in InDesign \(ab CC 2015\) ![](/assets/icon_indesign.jpg)
+## Automatischer Lösungsweg in InDesign \(ab CC 2015\) ![](/assets/icon_indesign.gif)
 
 Seit Adobe InDesign CC 2015 wird in den PDF-Export-Einstellungen ein neuer Bereich mit dem Namen _«Barrierefreiheitsoptionen»_ im Register _«Erweitert»_ angezeigt. Darin kann der anzuzeigende Namen in _Dokumenttitel_ geändert werden.
 
-## Automatischer Lösungsweg in InDesign \(MadeToTag\) ![](/assets/icon_indesign.jpg)
+## Automatischer Lösungsweg in InDesign \(MadeToTag\) ![](/assets/icon_indesign.gif)
 
 Mit der Verwendung des Plugins MadeToTag wird der Dokumenttitel automatisch definiert.
 
