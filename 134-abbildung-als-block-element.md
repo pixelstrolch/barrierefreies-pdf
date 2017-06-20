@@ -1,6 +1,6 @@
 ## Problembeschreibung ![](/assets/icon_word.gif)
 
-In PDFs, welche aus Word exportiert werden, fehlt bei allen vorhandenen Bildern die Bounding Box Attribute.
+
 
 Problem festgestellt bei der PDF-Konvertierung aus:
 
@@ -19,11 +19,11 @@ Ist nicht Bestandteil des Matterhorn Protokolls.
 
 ## Manueller Lösungsweg in Acrobat ![](/assets/icon_acrobat.gif)
 
-Schnellster und einfachster Weg ist es das `<Figure>` Tag nicht als eigenständiges Block-Element zu behandeln. 
+Schnellster und einfachster Weg ist es das `<Figure>` Tag nicht als eigenständiges Block-Element zu behandeln.
 
-Dazu kann das `<Figure>` Tag 
+Dazu kann das `<Figure>` Tag
 
-* innerhalb eines zugehörigen Absatz \(`<P>` Tag\) verschoben werden oder 
+* innerhalb des zugehörigen Absatz \(`<P>` Tag\) verschoben werden oder 
 * ein neues Eltern `<P>` Tag erstellt werden und das `<Figure>` Tag darin verschoben werden.
 
 Zu beachten gilt, dass die Lesereihenfolge \(Reihenfolge der Tags\) danach immer noch korrekt ist.
