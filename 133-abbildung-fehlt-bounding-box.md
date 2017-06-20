@@ -1,10 +1,11 @@
 ## Problembeschreibung ![](/assets/icon_word.gif)
 
-In PDFs, welche aus Word 2013 exportiert werden, fehlt bei allen vorhandenen Bildern die Bounding Box Attribute.
+In PDFs, welche aus Word exportiert werden, fehlt bei allen vorhandenen Bildern die Bounding Box Attribute.
 
 Problem festgestellt bei der PDF-Konvertierung aus:
 
 * Microsoft Word 2013 für Windows
+* Microsoft Word für Mac \(mind. bis Version 15.33\)
 
 ### PAC 2 Fehlermeldung
 
@@ -22,14 +23,7 @@ Ist nicht Bestandteil des Matterhorn Protokolls.
 2. `<Figure>` Tag löschen
 3. `<Figure>` Tag neu mit Touch-Up Werkzeug neu anlegen
 4. Alternativtext in neuem `<Figure>` einfügen \(Tag-Baum → Rechtsklick auf betroffenes `<Figure>` → Eigenschaften → Tag\)
-5. Ist das `<Figure>` Tag nicht innerhalb eines Block-Elements, wie z.B. `<P>`, gegliedert, so wird die Warnung «_Possibly inappropriate use of a Figure structure element_» ausgegeben. Wenn das Bild als alleinstehendes Block-Element verwendet werden soll, so kann folgendes getan werden:
-   1. In den Eigenschaften des `<Figure>` Tags auf _«Attributobjekte bearbeiten…»_ klicken
-   2. Auf das Pluszeichen links von «_Attributobjekte_» klicken
-   3. Die nächst untere Ebene \(Attributobjekt 1\) markieren und den Button _«Neues Element»_ klicken
-   4. Das Dialogfeld wie folgt ausfüllen:
-      * Schlüssel: Placement
-      * Wert: Block
-      * Werttyp: Name
+5. Falls das `<Figure>` Tag nicht innerhalb eines Block-Elements, wie z.B. `<P>`, getaggt wird, so wird meldet PAC 2 die Warnung «_Possibly inappropriate use of a Figure structure element_». Siehe dazu [_«13.4 Figure als Block-Element»_](/134-abbildung-als-block-element.md).
 
 
 
