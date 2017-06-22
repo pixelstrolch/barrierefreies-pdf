@@ -1,6 +1,6 @@
 ## Problembeschreibung ![](/assets/icon_word.gif)
 
-Bilder in Word-Dokumenten werden beim PDF-Export immer auf Block-Ebene ausgegeben. Dem &lt;Figure&gt; Tag werden keine zusätzliche Attribute mitgegeben, welche es als Block-Element kennzeichnen. PAC 2 gibt in diesen Fall unten stehende Warnung aus. 
+Bilder in Word-Dokumenten werden beim PDF-Export immer auf Block-Ebene ausgegeben. Dem `<Figure>` Tag werden keine zusätzliche Attribute mitgegeben, welche es als Block-Element kennzeichnen. PAC 2 gibt in diesen Fall unten stehende Warnung aus.
 
 Problem festgestellt bei der PDF-Konvertierung aus:
 

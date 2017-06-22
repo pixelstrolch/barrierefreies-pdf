@@ -1,6 +1,6 @@
 ## Problembeschreibung ![](/assets/icon_word.gif)
 
-In PDFs, welche aus Word exportiert werden, fehlt bei allen vorhandenen Bildern die Bounding Box Attribute.
+In PDFs, welche aus Word exportiert werden, fehlen bei allen vorhandenen Bildern die Bounding Box Attribute, egal mit welcher Layoutoption sie platziert wurden.
 
 Problem festgestellt bei der PDF-Konvertierung aus:
 
