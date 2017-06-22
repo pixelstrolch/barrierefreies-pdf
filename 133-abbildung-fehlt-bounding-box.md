@@ -23,7 +23,6 @@ Ist nicht Bestandteil des Matterhorn Protokolls.
 2. `<Figure>` Tag löschen
 3. `<Figure>` Tag neu mit Touch-Up Werkzeug neu anlegen
 4. Alternativtext in neuem `<Figure>` einfügen \(Tag-Baum → Rechtsklick auf betroffenes `<Figure>` → Eigenschaften → Tag\)
-5. Falls das `<Figure>` Tag nicht innerhalb eines Block-Elements, wie z.B. `<P>`, getaggt wird, so wird meldet PAC 2 die Warnung «_Possibly inappropriate use of a Figure structure element_». Siehe dazu [_«13.4 Figure als Block-Element»_](/134-abbildung-als-block-element.md).
 
-
+Für die Warnung «_Possibly inappropriate use of a Figure structure element_», siehe [_«13.4 Figure als Block-Element»_](/134-abbildung-als-block-element.md).
 
