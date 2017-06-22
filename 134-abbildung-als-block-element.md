@@ -26,7 +26,7 @@ Dazu kann das `<Figure>` Tag
 * innerhalb des zugehörigen Absatz \(`<P>` Tag\) verschoben werden oder 
 * ein neues `<P>` Tag erstellt werden und das `<Figure>` Tag darin verschoben werden.
 
-Zu beachten gilt, dass die Lesereihenfolge \(Reihenfolge der Tags\) danach immer noch korrekt ist.
+Zu beachten gilt, dass die Lesereihenfolge \(Reihenfolge der Tags\) danach immer noch korrekt sein muss.
 
 ## Manueller Lösungsweg 2 in Acrobat ![](/assets/icon_acrobat.gif)
 
