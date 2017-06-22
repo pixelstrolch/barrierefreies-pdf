@@ -1,6 +1,6 @@
 ## Problembeschreibung ![](/assets/icon_word.gif)
 
-
+Bilder in Word-Dokumenten werden beim PDF-Export immer auf Block-Ebene ausgegeben. Dem &lt;Figure&gt; Tag werden keine zusätzliche Attribute mitgegeben, welche es als Block-Element kennzeichnen. PAC 2 gibt in diesen Fall unten stehende Warnung aus. 
 
 Problem festgestellt bei der PDF-Konvertierung aus:
 
@@ -24,7 +24,7 @@ Schnellster und einfachster Weg ist es das `<Figure>` Tag nicht als eigenständi
 Dazu kann das `<Figure>` Tag
 
 * innerhalb des zugehörigen Absatz \(`<P>` Tag\) verschoben werden oder 
-* ein neues Eltern `<P>` Tag erstellt werden und das `<Figure>` Tag darin verschoben werden.
+* ein neues `<P>` Tag erstellt werden und das `<Figure>` Tag darin verschoben werden.
 
 Zu beachten gilt, dass die Lesereihenfolge \(Reihenfolge der Tags\) danach immer noch korrekt ist.
 
