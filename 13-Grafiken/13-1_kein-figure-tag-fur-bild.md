@@ -17,7 +17,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 ---
 
-## Manueller Lösungsweg in Acrobat ![](/assets/icon_acrobat.jpg)
+## Manueller Lösungsweg in Acrobat ![](/assets/icon_acrobat.gif)
 
 1. Mit dem TouchUp-Leserichtung-Werkzeug kann das Bild ausgewählt und in eine Abbildung umgewandelt werden. 
 2. Der nicht standardisierte Tag `<InlineShape>` wird so zu einem `<Figure>` umgewandelt. 
