@@ -1,5 +1,27 @@
 In diesem Abschnitt werden Begriffe erklärt. Es wird empfohlen sich mit diesen vertraut zu machen. So können die einzelnen Problem- und Lösungsbeschreibungen besser verstanden werden.
 
+# assistierende Technologie
+
+Assistierende Technologie steht für mögliche Hilfsmittel, die benötigt werden um Informationen trotz Behinderung konsumieren und verarbeiten zu können. 
+
+Unter assistierende Technologie fallen:
+
+* Screenreader \(Bildschirmlese-Software\)
+* Braille-Zeile
+* Bildschirmvergrösserung
+* Sprachsteuerung
+* Spezialmäuse und -tastaturen
+* Augen-, Mund-, Sprachsteuerung 
+* usw.
+
+# assistive Technolgie / Technology
+
+siehe [assistierende Technologie](#assistierende-technologie)
+
+# AT
+
+siehe [assistierende Technologie](#assistierende-technologie)
+
 # barrierearm
 
 siehe [barrierefrei](#barrierefrei)
@@ -8,10 +30,11 @@ siehe [barrierefrei](#barrierefrei)
 
 Wenn ein PDF-Dokument barrierefrei ist,
 
-* werden keine Menschen aufgrund einer Schwäche oder Behinderung ausgeschlossen
-* kann es durch assistive Technologie \(AT\) korrekt und komplett gelesen werden 
-* dürfen keine schwachen oder ungeeignete Farbkontraste enthalten sein
-* werden Alternativtexte verwendet um relevante Bilder und Grafiken zu beschreiben
+* ist es mit PDF-Tags versehen, welche die logische Dokumentstruktur erzeugen und die Lesereihenfolge vorgeben; 
+* dürfen keine schwachen oder ungeeignete Farbkontraste enthalten sein;
+* werden Alternativtexte verwendet um Elemente, die kein Text sind, zu beschreiben.
+
+Es werden somit keine Menschen aufgrund einer Schwäche oder Behinderung ausgeschlossen. Mit genannten Bedingungen wird [assistierende Technologie \(AT\)](#assistierende-technologie) unterstützt.
 
 # Matterhorn Protokoll
 
@@ -28,3 +51,4 @@ PDF/UA ist der ISO-Standard 14289-1. Dieser Standard definiert Anforderungen an 
 # Zugänglichkeit
 
 siehe [barrierefrei](#barrierefrei)
+
