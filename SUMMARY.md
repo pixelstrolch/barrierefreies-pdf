@@ -1,28 +1,27 @@
 # Summary
 
-## 0. Allgemeines
-
 * [Einleitung](README.md)
-* [Mithelfen](00-Allgemeines/00-1_gitbook-mithelfen.md)
-* [Begriffe](00-Allgemeines/00-2_begriffe.md)
+* [Mithelfen](mithelfen.md)
+* [Begriffe](GLOSSARY.md)
 
 ## 1. Getaggter realer Inhalt
 
-* [1.1 Document ist nicht Tag auf oberster Ebene](01-Getaggter-realer-Inhalt/01-1_document-ist-nicht-tag-auf-oberster-ebene.md)
-* [1.2 Falsche Inhaltsverzeichnis-Struktur](01-Getaggter-realer-Inhalt/01-2_falsche-inhaltsverzeichnis-struktur.md)
-* [1.3 Getaggte Tabellenlinien](01-Getaggter-realer-Inhalt/01-3_getaggte-tabellenlinien.md)
+* [Document ist nicht Tag auf oberster Ebene](01-Getaggter-realer-Inhalt/document-ist-nicht-tag-auf-oberster-ebene.md)
+* [Falsche Inhaltsverzeichnis-Struktur](01-Getaggter-realer-Inhalt/falsche-inhaltsverzeichnis-struktur.md)
+* [Getaggte Tabellenlinien](01-Getaggter-realer-Inhalt/getaggte-tabellenlinien.md)
 
 ## 6. Metadaten
 
-* [6.1 UA Identifier fehlt](06-Metadaten/06-1_ua-identifier-fehlt.md)
+* [UA Identifier fehlt](06-Metadaten/ua-identifier-fehlt.md)
 
 ## 7. Dictionary
 
-* [7.1 Dokumenttitel ist nicht gesetzt](07-Dictionary/07-1_dokumenttitel-ist-nicht-gesetzt.md)
+* [Dokumenttitel ist nicht gesetzt](07-Dictionary/dokumenttitel-ist-nicht-gesetzt.md)
 
 ## 13. Grafiken
 
-* [13.1 Kein Figure-Tag im Kompatibilitätsmodus](13-Grafiken/13-1_kein-figure-tag-fur-bild.md)
-* [13.2 Getaggte Bilder in Kopf- und Fusszeile](13-Grafiken/13-2_getaggte-bilder-in-kopf-und-fusszeile.md)
-* [13.3 Abbildung fehlt Bounding Box](13-Grafiken/13-3_abbildung-fehlt-bounding-box.md)
-* [13.4 Figure als Block-Element](13-Grafiken/13-4_abbildung-als-block-element.md)
+* [Kein Figure-Tag im Kompatibilitätsmodus](13-Grafiken/kein-figure-tag-fur-bild.md)
+* [Getaggte Bilder in Kopf- und Fusszeile](13-Grafiken/getaggte-bilder-in-kopf-und-fusszeile.md)
+* [Abbildung fehlt Bounding Box](13-Grafiken/abbildung-fehlt-bounding-box.md)
+* [Figure als Block-Element](13-Grafiken/abbildung-als-block-element.md)
+

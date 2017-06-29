@@ -11,7 +11,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 > PDF/UA identifier missing
 
-## **Prüfpunkt/e Matterhorn Protokoll**
+## Prüfpunkt/e Matterhorn Protokoll
 
 > **06-002** Der Metadata-Datenstrom im Catalog-Dictionary enthält keine PDF/UA-Kennzeichnung.  
 > **→ automatische/technische Prüfung**

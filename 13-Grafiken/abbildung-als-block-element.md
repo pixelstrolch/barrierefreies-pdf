@@ -11,7 +11,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 > _Possibly inappropriate use of a Figure structure element_
 
-## **Prüfpunkt/e Matterhorn Protokoll**
+## Prüfpunkt/e Matterhorn Protokoll
 
 Ist nicht Bestandteil des Matterhorn Protokolls.
 
