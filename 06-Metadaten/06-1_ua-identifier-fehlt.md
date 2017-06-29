@@ -1,4 +1,4 @@
-## Problembeschreibung ![](/assets/icon_word.gif)![](/assets/icon_indesign.gif)
+# Problembeschreibung ![](/assets/icon_word.gif)![](/assets/icon_indesign.gif)
 
 Damit ein PDF-Dokument als technisch barrierefrei gilt, muss die Metainformation vorhanden sein, welche das Dokument als PDF/UA kompatibel kennzeichnet.
 
@@ -7,18 +7,18 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 * Microsoft Word 2013 für Windows
 * Adobe InDesign alle Versionen
 
-### PAC 2 Fehlermeldung
+## PAC 2 Fehlermeldung
 
 > PDF/UA identifier missing
 
-### **Prüfpunkt/e Matterhorn Protokoll**
+## **Prüfpunkt/e Matterhorn Protokoll**
 
 > **06-002** Der Metadata-Datenstrom im Catalog-Dictionary enthält keine PDF/UA-Kennzeichnung.  
 > **→ automatische/technische Prüfung**
 
 ---
 
-## Manueller Lösungsweg in Acrobat ![](/assets/icon_acrobat.gif)
+# Manueller Lösungsweg in Acrobat ![](/assets/icon_acrobat.gif)
 
 1. Die Datei [pdfUA-ID.xmp herunterladen](https://taggedpdf.com/xmp/pdfUA-ID.xmp)
 2. Das betroffene Dokument in Acrobat öffnen
@@ -27,7 +27,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 5. In das Register _«Erweitert»_ wechseln und den Button _«Anhängen»_ klicken
 6. Die vorgängig heruntergeladene Datei _«pdfUA-ID.xmp»_ auswählen und «Öffnen» klicken
 
-## Automatischer Lösungsweg in Acrobat DC ![](/assets/icon_acrobat.gif)
+# Automatischer Lösungsweg in Acrobat DC ![](/assets/icon_acrobat.gif)
 
 1. Das Werkzeug-Register _«Druckproduktion»_ öffnen und auf _«Preflight»_ klicken
 2. Im Preflight-Fenster die Preflight Korrekturen anzeigen \(auf den kleinen Button mit dem Schraubenschlüssel Symbol klicken\)
@@ -35,7 +35,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 Diese Korrektur ist ausserdem Bestandteil des Preflight-Profils _«Strukturprobleme getaggter PDF-Dokumente beheben»_.
 
-## Automatischer Lösungsweg in InDesign \(MadeToTag\) ![](/assets/icon_indesign.gif)
+# Automatischer Lösungsweg in InDesign \(MadeToTag\) ![](/assets/icon_indesign.gif)
 
 Mit der Verwendung des Plugins MadeToTag wird die Metadaten-Information automatisch angehängt.
 
