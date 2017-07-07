@@ -6,7 +6,7 @@
 
 ## 1. Getaggter realer Inhalt
 
-* [1.1 Document ist nicht Tag auf oberster Ebene](01-Getaggter-realer-Inhalt/01-1_document-ist-nicht-tag-auf-oberster-ebene.md)
+* [1.1 Document ist nicht Tag auf oberster Ebene](01-Getaggter-realer-Inhalt/01-1_document-ist-nicht-tag-auf-oberster-ebene.md) ![](/assets/icon_word.gif)
 * [1.2 Falsche Inhaltsverzeichnis-Struktur](01-Getaggter-realer-Inhalt/01-2_falsche-inhaltsverzeichnis-struktur.md)
 * [1.3 Getaggte Tabellenlinien](01-Getaggter-realer-Inhalt/01-3_getaggte-tabellenlinien.md)
 
