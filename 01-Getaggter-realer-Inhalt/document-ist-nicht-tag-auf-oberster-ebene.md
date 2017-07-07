@@ -10,7 +10,7 @@ Problem wurde festgestellt bei der PDF-Konvertierung aus:
 
 > Part structure element used as root element
 
-## **Prüfpunkt/e Matterhorn Protokoll**
+## Prüfpunkt/e Matterhorn Protokoll
 
 > **01-006** Der Strukturtyp und Attribute eines Strukturelementes sind nicht semantisch geeignet für das Strukturelement. Alle Strukturelemente müssen in Betracht gezogen werden.  
 > **→ interaktive/semantische Prüfung**

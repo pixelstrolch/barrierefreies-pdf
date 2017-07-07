@@ -10,7 +10,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 > Invalid use of a Span structure element
 
-## **Prüfpunkt/e Matterhorn Protokoll**
+## Prüfpunkt/e Matterhorn Protokoll
 
 > **01-001** Artefakte sind als realer Inhalt getaggt.  
 > **→ interaktive/semantische Prüfung**

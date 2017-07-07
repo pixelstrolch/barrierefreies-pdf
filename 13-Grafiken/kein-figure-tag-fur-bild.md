@@ -10,7 +10,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 > Possibly inappropriate use of a Sect structure element
 
-## **Prüfpunkt/e Matterhorn Protokoll**
+## Prüfpunkt/e Matterhorn Protokoll
 
 > **13-001** Grafikobjekte, bei denen es sich weder um Textobjekte noch um Artefakte handelt, sind nicht als Figure getaggt.  
 > **→ interaktive/semantische Prüfung**

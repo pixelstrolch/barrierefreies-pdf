@@ -11,7 +11,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 > Figure element on a single page with no bounding box
 
-## **Prüfpunkt/e Matterhorn Protokoll**
+## Prüfpunkt/e Matterhorn Protokoll
 
 Ist nicht Bestandteil des Matterhorn Protokolls.
 
