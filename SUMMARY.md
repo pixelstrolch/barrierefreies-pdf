@@ -1,10 +1,8 @@
 # Summary
 
-## 0. Allgemeines
-
 * [Einleitung](README.md)
-* [Mithelfen](00-Allgemeines/00-1_gitbook-mithelfen.md)
-* [Begriffe](00-Allgemeines/00-2_begriffe.md)
+* [Mithelfen](mithelfen.md)
+* [Begriffe](GLOSSARY.md)
 
 ## 1. Getaggter realer Inhalt
 
@@ -26,3 +24,6 @@
 * [13.2 Getaggte Bilder in Kopf- und Fusszeile](13-Grafiken/13-2_getaggte-bilder-in-kopf-und-fusszeile.md)
 * [13.3 Abbildung fehlt Bounding Box](13-Grafiken/13-3_abbildung-fehlt-bounding-box.md)
 * [13.4 Figure als Block-Element](13-Grafiken/13-4_abbildung-als-block-element.md)
+
+
+
