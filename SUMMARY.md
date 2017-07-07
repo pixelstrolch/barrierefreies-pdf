@@ -3,7 +3,7 @@
 * [Einleitung](README.md)
 * [Mithelfen](mithelfen.md)
 * [Begriffe](GLOSSARY.md)
-* [Getaggter realer Inhalt](getaggter-realer-inhalt.md)
+## [1. Getaggter realer Inhalt](01-Getaggter-realer-Inhalt/getaggter-realer-inhalt.md)
 
 ## 1. Getaggter realer Inhalt
 
