@@ -27,7 +27,4 @@
 
 ## 14. Überschriften
 
-* [Hierarchiestufe der Überschriften verschoben](https://www.gitbook.com/book/pixelstrolch/barrierefreies-pdf/edit#)
-
-
-
+* [Übersprungene Überschriftenebenen](14-Überschriften/uebersprungene-ueberschriftenebenen.md)
