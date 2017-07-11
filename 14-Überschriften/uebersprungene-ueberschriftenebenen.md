@@ -17,13 +17,15 @@ Damit alle die Struktur nachvollziehen können, dürfen Überschriftenebenen nic
 
 # Manueller Lösungsweg in Word ![](/assets/icon_word.gif)
 
-In den Absatzeinstellung wird die Gliederungsebene definiert. Dort kann die Ebene 1–6 ausgewählt werden und steuert damit beim PDF-Export die Überschriftenebene. 
+In den Absatzeinstellung wird die Gliederungsebene definiert. Dort kann die Ebene 1–6 ausgewählt werden und steuert damit beim PDF-Export die Überschriftenebene.
 
-Am einfachsten verwendet man die Standardformatvorlagen _«Überschrift 1»_ bis _«Überschrift 6»_, welche bereits die korrekte Ebene hinterlegt haben. 
+Am einfachsten verwendet man die Standardformatvorlagen _«Überschrift 1»_ bis _«Überschrift 6»_, welche bereits die korrekte Ebene hinterlegt haben.
 
 Die Ebenenstruktur kann mithilfe des Navigationsbereich nachvollzogen werden. Falls dieser nicht sichtbar ist, fehlt das Häckchen unter dem Menü _«Ansicht»_.
 
 # Manueller Lösungsweg in InDesign ![](/assets/icon_indesign.gif)
 
-In InDesign kann der Exporttag 
+In InDesign kann die Überschriftsebene innerhalb der Einstellungen einer Absatzformatvorlage definiert werden. Unter _«Tagsexport»_ können die Tags für den PDF- sowie auch dem HTML/EPUB-Export definiert werden.
+
+Im Menü des Panels _«Absatzformate»_ befindet sich der Befehl _«Alle Exporttags bearbeiten»_. Damit können, innerhalb einer Liste aller Absatzformate, alle Exporttags auf einmal vergeben werden.
 
