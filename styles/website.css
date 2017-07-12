@@ -65,11 +65,12 @@ a:focus, a:hover {
 }
 
 .faq-header {
+    background-color: f8f9fa;
+    border-bottom: 1px solid #ced4da;
     margin-bottom: 20px;
     padding: 80px 0;
 }
 .faq-header .description {
-    border-bottom: 1px solid #ced4da;
     color: inherit;
     text-align: left;
     line-height: inherit;
