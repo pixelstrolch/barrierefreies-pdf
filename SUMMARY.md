@@ -4,6 +4,11 @@
 * [Mithelfen](mithelfen.md)
 * [Begriffe](GLOSSARY.md)
 
+## Allgemeine Anleitungen
+
+* [Mithilfe der InDesign-Absatzformate die PDF-Tags bestimmen](mithilfe-der-indesign-absatzformate-die-pdf-tags-bestimmen.md)
+* [Mithilfe von Word-Formatvorlagen die PDF-Tags bestimmen](#)
+
 ## 1. Getaggter realer Inhalt
 
 * [Document ist nicht Tag auf oberster Ebene](01-Getaggter-realer-Inhalt/document-ist-nicht-tag-auf-oberster-ebene.md)
@@ -24,4 +29,10 @@
 * [Getaggte Bilder in Kopf- und Fusszeile](13-Grafiken/getaggte-bilder-in-kopf-und-fusszeile.md)
 * [Abbildung fehlt Bounding Box](13-Grafiken/abbildung-fehlt-bounding-box.md)
 * [Figure als Block-Element](13-Grafiken/abbildung-als-block-element.md)
+
+## 14. Überschriften
+
+* [Übersprungene Überschriftenebenen](14-Überschriften/uebersprungene-ueberschriftenebenen.md)
+
+
 
