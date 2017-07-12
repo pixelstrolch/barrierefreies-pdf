@@ -87,14 +87,14 @@ a:focus, a:hover {
     height: 2px;
     margin: 3em 0;
 }
-.faq-page h1 {
+.faq-page h2 {
     font-size: 1.75em;
 }
-.faq-page h1 > img {
+.faq-page h2 > img {
     margin: 5px 0 12px 5px;
     width: 30px;
 }
-.faq-page h2 {
+.faq-page h3 {
     font-size: 1.5em;
     line-height: 1.3;
 }
