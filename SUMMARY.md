@@ -3,7 +3,11 @@
 * [Einleitung](README.md)
 * [Mithelfen](mithelfen.md)
 * [Begriffe](GLOSSARY.md)
-* [Allgemeine Anleitungen](allgemeine-anleitungen-fur-word.md)
+
+## Allgemeine Anleitungen
+
+* [Mithilfe der InDesign-Absatzformate die PDF-Tags bestimmen](mithilfe-der-indesign-absatzformate-die-pdf-tags-bestimmen.md)
+* [Mithilfe von Word-Formatvorlagen die PDF-Tags bestimmen](#)
 
 ## 1. Getaggter realer Inhalt
 
