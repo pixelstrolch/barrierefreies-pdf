@@ -17,11 +17,15 @@ Damit alle die Struktur nachvollziehen können, dürfen Überschriftenebenen nic
 
 # Manueller Lösungsweg in Word ![](/assets/icon_word.gif)
 
-Die Überschriftenebenen können mithilfe der Formatvorlagen bestimmt werden, siehe «Mithilfe von Word-Formatvorlagen die PDF-Tags bestimmen». Beim Auftreten dieses Fehlers müssen die verwendeten Formatvorlagen korrigiert werden und eventuell die neu überdenkt werden.
+Die Überschriftenebenen können mithilfe der Formatvorlagen bestimmt werden, siehe [«Mithilfe von Word-Formatvorlagen die PDF-Tags bestimmen»](#). Beim Auftreten dieses Fehlers müssen die angewendeten Formatvorlagen korrigiert werden und eventuell der bestehende Formatvorlagenkatalog überdenkt werden.
 
 Ein hilfreiches Werkzeug ist der Navigationsbereich. Falls dieser nicht sichtbar ist, kann dieser im Menü _«Ansicht»_ aktiviert werden.
 
 # Manueller Lösungsweg in InDesign ![](/assets/icon_indesign.gif)
 
+Die Überschriftenebenen können mithilfe der Formatvorlagen bestimmt werden, siehe [«Mithilfe der InDesign-Absatzformate die PDF-Tags bestimmen»](/mithilfe-der-indesign-absatzformate-die-pdf-tags-bestimmen.md). Beim Auftreten dieses Fehlers müssen die angewendeten Formatvorlagen korrigiert werden und eventuell der bestehende Formatvorlagenkatalog überdenkt werden.
 
+# Manueller Lösungweg in Acrobat ![](/assets/icon_acrobat.gif)
+
+Der vermutlich aufwendigste und unübersichtlichste Lösungsweg ist die Korrekturen im Tagbaum von Acrobat vorzunehmen. 
 
