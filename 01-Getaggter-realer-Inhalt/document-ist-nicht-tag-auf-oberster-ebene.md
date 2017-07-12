@@ -23,7 +23,7 @@ Problem wurde festgestellt bei der PDF-Konvertierung aus:
 2. Mit der Maus erneut auf das ausgewählte Tag klicken um es umzubenennen.
 3. Den Tag `<Part>` in `<Document>` umbenennen.
 
-![](/assets/pdf-tag-umbenennen.gif)
+![Animation zeigt die drei Schritte des manuellen Lösungswegs 1 in Acrobat](/assets/pdf-tag-umbenennen.gif)
 
 # Manueller Lösungsweg 2 in Acrobat ![](/assets/icon_acrobat.gif)
 
@@ -31,5 +31,5 @@ Problem wurde festgestellt bei der PDF-Konvertierung aus:
 2. Im Menü die Eigenschaften auswählen.
 3. Im Eigenschaften-Fenster, im Register Tag, kann der Typ auf _«Dokument»_ \(übersetzte Schreibweisung\) geändert werden.
 
-![](/assets/pdf-tag-umbennnen-2.gif)
+![Animation zeigt die drei Schritte des manuellen Lösungswegs 2 in Acrobat](/assets/pdf-tag-umbennnen-2.gif)
 
