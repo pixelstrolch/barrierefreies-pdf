@@ -11,7 +11,7 @@
 
 ## 1. Getaggter realer Inhalt
 
-* [Document ist nicht Tag auf oberster Ebene ![Microsoft Word Logo](/assets/icon_word.gif)](01-Getaggter-realer-Inhalt/document-ist-nicht-tag-auf-oberster-ebene.md)
+* [Document ist nicht Tag auf oberster Ebene ](01-Getaggter-realer-Inhalt/document-ist-nicht-tag-auf-oberster-ebene.md)
 * [Falsche Inhaltsverzeichnis-Struktur](01-Getaggter-realer-Inhalt/falsche-inhaltsverzeichnis-struktur.md)
 * [Getaggte Tabellenlinien](01-Getaggter-realer-Inhalt/getaggte-tabellenlinien.md)
 
@@ -34,5 +34,4 @@
 
 * [Übersprungene Überschriftenebenen](14-Überschriften/uebersprungene-ueberschriftenebenen.md)
 
-
-
+* [Tags](tags.md)
