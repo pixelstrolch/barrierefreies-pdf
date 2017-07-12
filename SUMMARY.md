@@ -34,5 +34,5 @@
 
 * [Übersprungene Überschriftenebenen](14-Überschriften/uebersprungene-ueberschriftenebenen.md)
 
-## Tags
+## Navigationshilfe
 * [Tags](tags.md)
