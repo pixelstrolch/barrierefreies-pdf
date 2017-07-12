@@ -69,22 +69,24 @@ a:focus, a:hover {
     padding: 80px 0;
 }
 .faq-header .description {
+    border-bottom: 1px solid #ced4da;
     color: inherit;
     text-align: left;
     line-height: inherit;
 }
-.license {
-    font-size: .875rem;
+.panel-default {
+    border-color: #ced4da;
 }
 .panel-body {
     padding: 30px;
     position: relative;
 }
 .breadcrumb {
+    background-color: #f8f9fa;
     margin-bottom: 30px;
 }
 .faq-page hr, hr {
-    background-color: #12b886;
+    background-color: #ced4da;
     height: 1px;
     margin: 2em 0;
 }
