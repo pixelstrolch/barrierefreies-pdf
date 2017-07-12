@@ -8,7 +8,7 @@ Diese Sammlung enthält Lösungen, welche mit folgender Software umgesetzt werde
 
 ---
 
-[![](/assets/cc-by.png) Creative Commons Namensnennung 4.0 International Lizenz.](http://creativecommons.org/licenses/by/4.0/)
+![Icon der CC Lizenz](/assets/cc-by.png) [Creative Commons Namensnennung 4.0 International Lizenz](http://creativecommons.org/licenses/by/4.0/).
 
 Erstellt nach Schweizer Typografie- und Rechtschreibregeln.
 
