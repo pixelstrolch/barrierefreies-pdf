@@ -84,6 +84,7 @@ a:focus, a:hover {
     margin-bottom: 30px;
 }
 .faq-page hr {
+    background-color: #12b886;
     height: 2px;
     margin: 3em 0;
 }
