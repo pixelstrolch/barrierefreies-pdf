@@ -1,4 +1,4 @@
-## Problembeschreibung ![](/assets/icon_word.gif)
+## Problembeschreibung
 
 In PDFs, welche aus Word exportiert werden, fehlen bei allen vorhandenen Bildern die Bounding Box Attribute, egal mit welcher Layoutoption sie platziert wurden.
 
@@ -17,7 +17,7 @@ Ist nicht Bestandteil des Matterhorn Protokolls.
 
 ---
 
-## Manueller Lösungsweg in Acrobat ![](/assets/icon_acrobat.gif)
+## Manueller Lösungsweg in Acrobat
 
 1. Alternativtext des betroffenen Bildes kopieren \(Tag-Baum → Rechtsklick auf betroffenes `<Figure>` → Eigenschaften → Tag\)
 2. `<Figure>` Tag löschen

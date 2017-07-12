@@ -1,17 +1,15 @@
 # Summary
 
-* [Einleitung](README.md)
-* [Mithelfen](mithelfen.md)
+## Allgemeines
+
+* [Mithelfen](Allgemeines/mithelfen.md)
 * [Begriffe](GLOSSARY.md)
-
-## Allgemeine Anleitungen
-
-* [Mithilfe der InDesign-Absatzformate die PDF-Tags bestimmen](Allgemeine-Anleitungen/mithilfe-der-indesign-absatzformate-die-pdf-tags-bestimmen.md)
-* [Mithilfe von Word-Formatvorlagen die PDF-Tags bestimmen](Allgemeine-Anleitungen/mithilfe-von-word-formatvorlagen-die-pdf-tags-bestimmen.md)
+* [Mithilfe der InDesign-Absatzformate die PDF-Tags bestimmen](Allgemeines/mithilfe-der-indesign-absatzformate-die-pdf-tags-bestimmen.md)
+* [Mithilfe von Word-Formatvorlagen die PDF-Tags bestimmen](Allgemeines/mithilfe-von-word-formatvorlagen-die-pdf-tags-bestimmen.md)
 
 ## 1. Getaggter realer Inhalt
 
-* [Document ist nicht Tag auf oberster Ebene ![Microsoft Word Logo](/assets/icon_word.gif)](01-Getaggter-realer-Inhalt/document-ist-nicht-tag-auf-oberster-ebene.md)
+* [Document ist nicht Tag auf oberster Ebene ](01-Getaggter-realer-Inhalt/document-ist-nicht-tag-auf-oberster-ebene.md)
 * [Falsche Inhaltsverzeichnis-Struktur](01-Getaggter-realer-Inhalt/falsche-inhaltsverzeichnis-struktur.md)
 * [Getaggte Tabellenlinien](01-Getaggter-realer-Inhalt/getaggte-tabellenlinien.md)
 
@@ -33,6 +31,10 @@
 ## 14. Überschriften
 
 * [Übersprungene Überschriftenebenen](14-Überschriften/uebersprungene-ueberschriftenebenen.md)
+
+## Navigationshilfe
+
+* [Tags](tags.md)
 
 
 
