@@ -3,7 +3,6 @@
 * [Einleitung](README.md)
 * [Mithelfen](mithelfen.md)
 * [Begriffe](GLOSSARY.md)
-* [Tags](tags.md)
 
 ## Allgemeine Anleitungen
 
@@ -34,3 +33,6 @@
 ## 14. Überschriften
 
 * [Übersprungene Überschriftenebenen](14-Überschriften/uebersprungene-ueberschriftenebenen.md)
+
+## Tags
+* [Tags](tags.md)
