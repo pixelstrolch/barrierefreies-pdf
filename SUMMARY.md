@@ -1,7 +1,5 @@
 # Summary
 
-* [Einleitung](README.md)
-
 ## Allgemeines
 
 * [Mithelfen](Allgemeines/mithelfen.md)
