@@ -21,7 +21,7 @@ Keine Warnung oder Fehlermeldung zu diesem Problem!
 
 ---
 
-## Manueller Lösungsweg in Word ![](/assets/icon_word.gif)
+## ![ ](/assets/icon_word.gif) Manueller Lösungsweg in Word
 
 Word verwendet für die einzelnen Verzeichniseinträge die Formatvorlagen _Verzeichnis 1_, _Verzeichnis 2_, usw. Ist in diesen Formatvorlagen die Gliederungsebene \(Absatz Einstellungen\) nicht als Textkörper definiert, werden die Überschriften-Tags angewendet. Diese müssen also zwingend mit der Option Textkörper definiert sein.
 

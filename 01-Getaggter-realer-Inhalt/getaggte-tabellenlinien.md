@@ -24,7 +24,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 ---
 
-## Manueller Lösungsweg in Acrobat ![](/assets/icon_acrobat.gif)
+## ![ ](/assets/icon_acrobat.gif) Manueller Lösungsweg in Acrobat
 
 1. Das Pfad Element wird als Artefakt gekennzeichnet. Dazu kann das Pfadelement, mithilfe eines Rechtsklicks in der Tag-Menüleiste, in ein aussertextliches Element geändert werden. 
 2. Danach kann das leere `<Span>`Tag gelöscht werden.
