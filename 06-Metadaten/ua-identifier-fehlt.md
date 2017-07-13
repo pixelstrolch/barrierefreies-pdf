@@ -1,3 +1,7 @@
+---
+tags: 'Adobe InDesign, Microsoft Word'
+---
+
 ## Problembeschreibung ![](/assets/icon_word.gif)![](/assets/icon_indesign.gif)
 
 Damit ein PDF-Dokument als technisch barrierefrei gilt, muss die Metainformation vorhanden sein, welche das Dokument als PDF/UA kompatibel kennzeichnet.
