@@ -1,4 +1,5 @@
 tags: Microsoft Word
+
 ## Problembeschreibung ![](/assets/icon_word.gif)
 
 Ein aus Word 2013 konvertiertes PDF enthält als oberstes Container das `<Part>` Tag. Die oberste Ebene sollte jedoch mit einem `<Document>` Tag strukturiert werden.
