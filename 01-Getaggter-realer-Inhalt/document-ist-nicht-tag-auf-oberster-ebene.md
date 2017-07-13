@@ -16,12 +16,12 @@ Problem wurde festgestellt bei der PDF-Konvertierung aus:
 
 ### Prüfpunkt/e Matterhorn Protokoll
 
-> **01-006** Der Strukturtyp und Attribute eines Strukturelementes sind nicht semantisch geeignet für das Strukturelement. Alle Strukturelemente müssen in Betracht gezogen werden.  
-> **→ interaktive/semantische Prüfung**
+> **01-006** Der Strukturtyp und Attribute eines Strukturelementes sind nicht semantisch geeignet für das Strukturelement. Alle Strukturelemente müssen in Betracht gezogen werden.
+> **→ manuelle Prüfung**
 
 ---
 
-## ![ ](/assets/icon_acrobat.gif) Manueller Lösungsweg 1 in Acrobat
+## Manueller Lösungsweg 1 in Acrobat
 
 1. Das betroffene Tag im Tagbaum einmal anklicken um es auszuwählen.
 2. Mit der Maus erneut auf das ausgewählte Tag klicken um es umzubenennen.
@@ -29,7 +29,7 @@ Problem wurde festgestellt bei der PDF-Konvertierung aus:
 
 ![Animation zeigt die drei Schritte des manuellen Lösungswegs 1 in Acrobat](/assets/pdf-tag-umbenennen.gif)
 
-## ![ ](/assets/icon_acrobat.gif) Manueller Lösungsweg 2 in Acrobat
+## Manueller Lösungsweg 2 in Acrobat
 
 1. Rechtsklick mit der Maus auf das betroffene Tag im Tagbaum.
 2. Im Menü die Eigenschaften auswählen.

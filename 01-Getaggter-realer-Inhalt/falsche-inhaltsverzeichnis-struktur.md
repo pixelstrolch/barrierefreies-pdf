@@ -17,11 +17,11 @@ Keine Warnung oder Fehlermeldung zu diesem Problem!
 ### Prüfpunkt/e Matterhorn Protokoll
 
 > **01-006** Der Strukturtyp und Attribute eines Strukturelementes sind nicht semantisch geeignet für das Strukturelement. Alle Strukturelemente müssen in Betracht gezogen werden.  
-> **→ interaktive/semantische Prüfung**
+> **→ manuelle Prüfung**
 
 ---
 
-## ![ ](/assets/icon_word.gif) Manueller Lösungsweg in Word
+## Manueller Lösungsweg in Word
 
 Word verwendet für die einzelnen Verzeichniseinträge die Formatvorlagen _Verzeichnis 1_, _Verzeichnis 2_, usw. Ist in diesen Formatvorlagen die Gliederungsebene \(Absatz Einstellungen\) nicht als Textkörper definiert, werden die Überschriften-Tags angewendet. Diese müssen also zwingend mit der Option Textkörper definiert sein.
 

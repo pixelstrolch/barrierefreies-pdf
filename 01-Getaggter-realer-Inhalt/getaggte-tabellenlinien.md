@@ -20,11 +20,11 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 > **→ interaktive/semantische Prüfung**
 >
 > **09-004** Ein Strukturelement, das im Zusammenhang mit einer Tabelle steht, wird in einer Weise verwendet, die nicht mit Tabelle 337 der ISO 32000-1 übereinstimmt.  
-> **→ automatische/technische Prüfung**
+> **→ maschinelle Prüfung**
 
 ---
 
-## ![ ](/assets/icon_acrobat.gif) Manueller Lösungsweg in Acrobat
+## Manueller Lösungsweg in Acrobat
 
 1. Das Pfad Element wird als Artefakt gekennzeichnet. Dazu kann das Pfadelement, mithilfe eines Rechtsklicks in der Tag-Menüleiste, in ein aussertextliches Element geändert werden. 
 2. Danach kann das leere `<Span>`Tag gelöscht werden.

@@ -1,4 +1,8 @@
-## Problembeschreibung ![](/assets/icon_word.gif) ![](/assets/icon_indesign.gif)
+---
+Tags: Adobe InDesign, Microsoft Word, maschinelle Prüfung
+---
+
+## Problembeschreibung
 
 In sogenannten «schwach strukturierten Dokumenten» werden nummerierte Überschriften-Tags eingesetzt. Die Tags sehen so aus: `<Hn>`, wobei `n` für eine Ziffer von 1 bis 6 steht. Mithilfe der nummerierten Überschriften-Tags wird eine Struktur und Hierarchie im Dokument hergestellt.
 
@@ -11,21 +15,21 @@ Damit alle die Struktur nachvollziehen können, dürfen Überschriftenebenen nic
 ### Prüfpunkt/e Matterhorn Protokoll
 
 > **14-003** Bei nummerierten Überschriften-Tags in absteigender Folge wird eine Ebene übersprungen  
-> **→ automatische/technische Prüfung**
+> **→ maschinelle Prüfung**
 
 ---
 
-## Manueller Lösungsweg in Word ![](/assets/icon_word.gif)
+## Manueller Lösungsweg in Word
 
 Die Überschriftenebenen können mithilfe der Formatvorlagen bestimmt werden, siehe [«Mithilfe von Word-Formatvorlagen die PDF-Tags bestimmen»](#). Beim Auftreten dieses Fehlers müssen die angewendeten Formatvorlagen korrigiert werden und eventuell der bestehende Formatvorlagenkatalog überdenkt werden.
 
 Ein hilfreiches Werkzeug ist der Navigationsbereich. Falls dieser nicht sichtbar ist, kann dieser im Menü _«Ansicht»_ aktiviert werden.
 
-## Manueller Lösungsweg in InDesign ![](/assets/icon_indesign.gif)
+## Manueller Lösungsweg in InDesign
 
 Die Überschriftenebenen können mithilfe der Formatvorlagen bestimmt werden, siehe [«Mithilfe der InDesign-Absatzformate die PDF-Tags bestimmen»](/mithilfe-der-indesign-absatzformate-die-pdf-tags-bestimmen.md). Beim Auftreten dieses Fehlers müssen die angewendeten Formatvorlagen korrigiert werden und eventuell der bestehende Formatvorlagenkatalog überdenkt werden.
 
-## Manueller Lösungweg in Acrobat ![](/assets/icon_acrobat.gif)
+## Manueller Lösungweg in Acrobat
 
 Der vermutlich aufwendigste und unübersichtlichste Lösungsweg ist die Korrekturen im Tagbaum von Acrobat vorzunehmen. 
 

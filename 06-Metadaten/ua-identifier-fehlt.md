@@ -18,11 +18,11 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 ### Prüfpunkt/e Matterhorn Protokoll
 
 > **06-002** Der Metadata-Datenstrom im Catalog-Dictionary enthält keine PDF/UA-Kennzeichnung.  
-> **→ automatische/technische Prüfung**
+> **→ maschinelle Prüfung**
 
 ---
 
-## ![ ](/assets/icon_acrobat.gif) Manueller Lösungsweg in Acrobat
+## Manueller Lösungsweg in Acrobat
 
 1. Die Datei [pdfUA-ID.xmp herunterladen](https://taggedpdf.com/xmp/pdfUA-ID.xmp)
 2. Das betroffene Dokument in Acrobat öffnen
@@ -31,7 +31,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 5. In das Register _«Erweitert»_ wechseln und den Button _«Anhängen»_ klicken
 6. Die vorgängig heruntergeladene Datei _«pdfUA-ID.xmp»_ auswählen und «Öffnen» klicken
 
-## ![ ](/assets/icon_acrobat.gif) Automatischer Lösungsweg in Acrobat DC
+## Automatischer Lösungsweg in Acrobat DC
 
 1. Das Werkzeug-Register _«Druckproduktion»_ öffnen und auf _«Preflight»_ klicken
 2. Im Preflight-Fenster die Preflight Korrekturen anzeigen \(auf den kleinen Button mit dem Schraubenschlüssel Symbol klicken\)
@@ -39,7 +39,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 Diese Korrektur ist ausserdem Bestandteil des Preflight-Profils _«Strukturprobleme getaggter PDF-Dokumente beheben»_.
 
-## ![ ](/assets/icon_indesign.gif) Automatischer Lösungsweg in InDesign \(MadeToTag\)
+## Automatischer Lösungsweg in InDesign \(MadeToTag\)
 
 Mit der Verwendung des Plugins MadeToTag wird die Metadaten-Information automatisch angehängt.
 
