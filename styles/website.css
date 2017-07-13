@@ -112,3 +112,18 @@ a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, 
 .faq-page-footer {
     font-size: .875rem;
 }
+
+/* Tags */
+.fa {
+    display: none;
+}
+.faq-page .tags a {
+    background: #12b886;
+    color: #ffffff;
+    border: 0;
+    font-size: 1em;
+    padding: .5em .75em;
+}
+.faq-page .tags a:hover, .faq-page .tags a:focus {
+    background: #087f5b;
+}

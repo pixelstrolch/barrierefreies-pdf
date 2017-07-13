@@ -2,7 +2,7 @@
 tags: Microsoft Word
 ---
 
-## Problembeschreibung ![](/assets/icon_word.gif)
+## Problembeschreibung
 
 Ein Inhaltsverzeichnis wird mit den Tags `<TOC>` und `<TOCI>` erstellt. `<TOC>` ist dabei der Container und `<TOCI>` wird für die einzelnen Einträge verwendet. Bei diesem Fehlerszenario werden im PDF einzelne Einträge innerhalb Überschriften-Tags, z.B. `<H1>`, anstatt `<TOCI>` strukturiert.
 
