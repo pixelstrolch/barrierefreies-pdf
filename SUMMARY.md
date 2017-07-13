@@ -1,13 +1,13 @@
 # Summary
 
 * [Einleitung](README.md)
-* [Mithelfen](mithelfen.md)
+
+## Allgemeines
+
+* [Mithelfen](Allgemeines/mithelfen.md)
 * [Begriffe](GLOSSARY.md)
-
-## Allgemeine Anleitungen
-
-* [Mithilfe der InDesign-Absatzformate die PDF-Tags bestimmen](Allgemeine-Anleitungen/mithilfe-der-indesign-absatzformate-die-pdf-tags-bestimmen.md)
-* [Mithilfe von Word-Formatvorlagen die PDF-Tags bestimmen](Allgemeine-Anleitungen/mithilfe-von-word-formatvorlagen-die-pdf-tags-bestimmen.md)
+* [Mithilfe der InDesign-Absatzformate die PDF-Tags bestimmen](Allgemeines/mithilfe-der-indesign-absatzformate-die-pdf-tags-bestimmen.md)
+* [Mithilfe von Word-Formatvorlagen die PDF-Tags bestimmen](Allgemeines/mithilfe-von-word-formatvorlagen-die-pdf-tags-bestimmen.md)
 
 ## 1. Getaggter realer Inhalt
 
@@ -35,4 +35,8 @@
 * [Übersprungene Überschriftenebenen](14-Überschriften/uebersprungene-ueberschriftenebenen.md)
 
 ## Navigationshilfe
+
 * [Tags](tags.md)
+
+
+
