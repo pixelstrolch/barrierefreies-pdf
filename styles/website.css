@@ -83,7 +83,12 @@ a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, 
     line-height: inherit;
 }
 #book-search-input input {
+    border-color: #ced4da;
     font-size: 1rem;
+    padding: 10px 12px;
+}
+#book-search-input input:focus {
+    border-color: #12b886;
 }
 @media (min-width: 992px) {
     #book-search-input input {
