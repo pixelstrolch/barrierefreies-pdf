@@ -1,5 +1,5 @@
 ---
-tags: 'Adobe InDesign, Microsoft Word'
+tags: Adobe InDesign, Microsoft Word, maschinelle Prüfung
 ---
 
 ## Problembeschreibung

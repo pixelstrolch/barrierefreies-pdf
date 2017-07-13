@@ -1,5 +1,5 @@
 ---
-tags: Microsoft Word
+tags: Microsoft Word, maschinelle Prüfung
 ---
 
 ## Problembeschreibung
