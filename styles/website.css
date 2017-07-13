@@ -1,3 +1,4 @@
+/* Global */
 html {
     font-size: 16px;
 }
@@ -24,6 +25,8 @@ a:focus, a:hover {
 .faq-page {
     font-size: inherit;
 }
+
+/* Navbar */
 .navbar-default {
     background-color: #12b886;
     box-shadow: 0 2px 6px #ccc;
@@ -67,6 +70,7 @@ a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, 
     background-color: #f8f8f8;
 }
 
+/* Header */
 .faq-header {
     background-color: f8f9fa;
     border-bottom: 1px solid #ced4da;
@@ -78,6 +82,16 @@ a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, 
     text-align: left;
     line-height: inherit;
 }
+#book-search-input input {
+    font-size: 1rem;
+}
+@media (min-width: 992px) {
+    #book-search-input input {
+        font-size: 1.125rem;
+    }
+}
+
+/* Content */
 .panel-default {
     border-color: #ced4da;
 }
