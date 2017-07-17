@@ -1,5 +1,5 @@
 ---
-tags: Microsoft Word, maschinelle Prüfung
+tags: Microsoft Word, technische Prüfung
 ---
 
 ## Problembeschreibung
@@ -20,7 +20,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 > **→ interaktive/semantische Prüfung**
 >
 > **09-004** Ein Strukturelement, das im Zusammenhang mit einer Tabelle steht, wird in einer Weise verwendet, die nicht mit Tabelle 337 der ISO 32000-1 übereinstimmt.  
-> **→ maschinelle Prüfung**
+> **→ technische Prüfung**
 
 ---
 

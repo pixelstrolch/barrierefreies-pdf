@@ -38,7 +38,7 @@ Es werden somit keine Menschen aufgrund einer Schwäche oder Behinderung ausgesc
 
 ## Matterhorn Protokoll
 
-Das [Matterhorn Protokoll](https://www.pdfa.org/publication/matterhorn-protokoll-1-02-deutsche-uebersetzung/?lang=de) ist ein Dokument der [PDF Association](https://www.pdfa.org/pdf-association/?lang=de), welches Softwareentwicklern und Prüfpersonen von Dokumenten hilft, ein PDF nach PDF/UA zu erstellen. Es beschreibt 136 Fehlerbedingungen, welche in 31 Prüfpunkte aufgeteilt sind. Von den 136 Fehlerbedingungen können 87 durch eine Software geprüft werden. 47 Fehlerbedingungen müssen interaktiv und manuell durch einen Menschen geprüft werden. 2 Fehlerbedingungen können in keiner dieser Kategorien zugeordnet werden. Das Matterhorn Protokoll wurde ins Deutsche übersetzt.
+Das [Matterhorn Protokoll](https://www.pdfa.org/publication/matterhorn-protokoll-1-02-deutsche-uebersetzung/?lang=de) ist ein Dokument der [PDF Association](https://www.pdfa.org/pdf-association/?lang=de), welches Softwareentwicklern und Prüfpersonen von Dokumenten hilft, ein PDF nach PDF/UA zu erstellen. Es beschreibt 136 Fehlerbedingungen, welche in 31 Prüfpunkte aufgeteilt sind. Von den 136 Fehlerbedingungen können 87 durch eine Software geprüft werden. 47 Fehlerbedingungen müssen manuell durch einen Menschen geprüft werden. 2 Fehlerbedingungen können in keiner dieser Kategorien zugeordnet werden. Das Matterhorn Protokoll wurde ins Deutsche übersetzt.
 
 ## PAC 2
 
@@ -47,6 +47,12 @@ PAC 2 ist das umfangreichste und kostenlose Prüftool um PDFs auf dessen Zugäng
 ## PDF/UA
 
 PDF/UA ist der ISO-Standard 14289-1. Dieser Standard definiert Anforderungen an die Barrierefreiheit des PDF-Dokuments. Er richtet sich an Herstellerfirmen von Software und assistiver Technologie. Um ein Dokument nach PDF/UA zu prüfen muss nicht zwingend ISO-Dokumentation erworben werden. Das [Matterhorn Protokoll](#matterhorn-protokoll) enthält die benötigten Prüfpunkte und ist kostenlos.
+
+## semantische Prüfung
+Gemäss [Matterhorn Protokoll](#matterhorn-protokoll) sind 47 Prüfpunkte durch einen Menschen zu prüfen. Diese können nicht durch eine Software, wie zum Beispiel [PAC 2](#pac2), geprüft werden. Es kann höchstens eine Warnung ausgegeben werden. Das Prüfen dieser Punkte wird semantische Prüfung genannt.
+
+## technische Prüfung
+Gemäss [Matterhorn Protokoll](#matterhorn-protokoll) können 87 Prüfpunkte durch eine Software geprüft werden. Mithilfe einer Prüfung mit [PAC 2](#pac2) werden solche Fehler erkannt.
 
 ## Zugänglichkeit
 

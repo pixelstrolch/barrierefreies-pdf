@@ -1,5 +1,5 @@
 ---
-Tags: Adobe InDesign, Microsoft Word, maschinelle Prüfung
+Tags: Adobe InDesign, Microsoft Word, technische Prüfung
 ---
 
 ## Problembeschreibung
@@ -19,7 +19,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 > **07-001** Das ViewerPreferences-Dictionary des Catalog-Dictionary enthält keinen Schlüssel DisplayDocTitle.  
 > **07-002** Das ViewerPreferences-Dictionary des Catalog-Dictionary enthält einen Schlüssel DisplayDocTitle mit dem Wert false.  
-> **→ maschinelle Prüfung**
+> **→ technische Prüfung**
 
 ---
 

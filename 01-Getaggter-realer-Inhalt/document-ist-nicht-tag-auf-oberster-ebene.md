@@ -1,5 +1,5 @@
 ---
-tags: Microsoft Word, manuelle Prüfung
+tags: Microsoft Word, semantische Prüfung
 ---
 
 ## Problembeschreibung
@@ -17,7 +17,7 @@ Problem wurde festgestellt bei der PDF-Konvertierung aus:
 ### Prüfpunkt/e Matterhorn Protokoll
 
 > **01-006** Der Strukturtyp und Attribute eines Strukturelementes sind nicht semantisch geeignet für das Strukturelement. Alle Strukturelemente müssen in Betracht gezogen werden.
-> **→ manuelle Prüfung**
+> **→ semantische Prüfung**
 
 ---
 

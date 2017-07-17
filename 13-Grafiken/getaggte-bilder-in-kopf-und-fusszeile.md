@@ -1,5 +1,5 @@
 ---
-Tags: Microsoft Word, manuelle Prüfung
+Tags: Microsoft Word, semantische Prüfung
 ---
 
 ## Problembeschreibung
@@ -17,7 +17,7 @@ Keine Warnung oder Fehlermeldung zu diesem Problem!
 ### Prüfpunkt/e Matterhorn Protokoll
 
 > **01-001** Artefakte sind als realer Inhalt getaggt.  
-> **→ manuelle Prüfung**
+> **→ semantische Prüfung**
 
 ---
 

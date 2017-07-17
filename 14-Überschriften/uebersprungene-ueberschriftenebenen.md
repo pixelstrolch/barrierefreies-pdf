@@ -1,5 +1,5 @@
 ---
-Tags: Adobe InDesign, Microsoft Word, maschinelle Prüfung
+Tags: Adobe InDesign, Microsoft Word, technische Prüfung
 ---
 
 ## Problembeschreibung
@@ -15,7 +15,7 @@ Damit alle die Struktur nachvollziehen können, dürfen Überschriftenebenen nic
 ### Prüfpunkt/e Matterhorn Protokoll
 
 > **14-003** Bei nummerierten Überschriften-Tags in absteigender Folge wird eine Ebene übersprungen  
-> **→ maschinelle Prüfung**
+> **→ technische Prüfung**
 
 ---
 

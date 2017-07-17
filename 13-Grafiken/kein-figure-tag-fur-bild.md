@@ -1,5 +1,5 @@
 ---
-Tags: Microsoft Word, manuelle Prüfung
+Tags: Microsoft Word, semantische Prüfung
 ---
 
 ## Problembeschreibung
@@ -17,7 +17,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 ### Prüfpunkt/e Matterhorn Protokoll
 
 > **13-001** Grafikobjekte, bei denen es sich weder um Textobjekte noch um Artefakte handelt, sind nicht als Figure getaggt.  
-> **→ manuelle Prüfung**
+> **→ semantische Prüfung**
 
 ---
 

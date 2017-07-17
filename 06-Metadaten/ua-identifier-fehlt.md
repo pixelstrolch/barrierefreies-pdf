@@ -1,5 +1,5 @@
 ---
-tags: Adobe InDesign, Microsoft Word, maschinelle Prüfung
+tags: Adobe InDesign, Microsoft Word, technische Prüfung
 ---
 
 ## Problembeschreibung
@@ -18,7 +18,7 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 ### Prüfpunkt/e Matterhorn Protokoll
 
 > **06-002** Der Metadata-Datenstrom im Catalog-Dictionary enthält keine PDF/UA-Kennzeichnung.  
-> **→ maschinelle Prüfung**
+> **→ technische Prüfung**
 
 ---
 
