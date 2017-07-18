@@ -1,3 +1,8 @@
 {
-    "plugins": [ "theme-faq", "tags" ]
+    "plugins": [ "theme-faq", "tags", "verifications" ]
+    "pluginsConfig": {
+        "verifications": {
+            "googleSearchConsoleContent": "-_iyuEFFI9xNkMW6EeRgi-RLAGTSfV-MmjkrtJeEVNU"
+        }
+    }
 }
