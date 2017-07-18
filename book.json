@@ -2,6 +2,7 @@
     "plugins": [ "theme-faq", "tags", "verifications" ],
     "pluginsConfig": {
         "verifications": {
+            "naverWebmasterContent": "",
             "googleSearchConsoleContent": "Vs2XXD_Zxj-N520NxNw7rU0-KAC5RoAVqOQ33k90gao",
         }
     }
