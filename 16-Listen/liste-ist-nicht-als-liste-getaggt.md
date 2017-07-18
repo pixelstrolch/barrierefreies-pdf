@@ -1,5 +1,5 @@
 ---
-Tags: Adobe Indesign, Microsoft Word, semantische Prüfung
+Tags: 'Adobe Indesign, Microsoft Word, semantische Prüfung'
 ---
 
 ## Problembeschreibung
@@ -14,9 +14,10 @@ Keine Warnung oder Fehlermeldung zu diesem Problem!
 
 ### **Prüfpunkt/e Matterhorn Protokoll**
 
-> **01-006** Der Strukturtyp und Attribute eines Strukturelementes sind nicht semantisch geeignet für das Strukturelement. Alle Strukturelemente müssen in Betracht gezogen werden.
-> **16-003** Inhalt ist eine Liste, die jedoch nicht als Liste getaggt
-ist.
+> **01-006** Der Strukturtyp und Attribute eines Strukturelementes sind nicht semantisch geeignet für das Strukturelement. Alle Strukturelemente müssen in Betracht gezogen werden.  
+> **16-003** Inhalt ist eine Liste, die jedoch nicht als Liste getaggt  
+> ist.
+>
 > **→ semantische Prüfung**
 
 ---
@@ -40,3 +41,4 @@ Um eine einheitliche Formatierung zu gewährleisten, wird die Verwendung einer s
 ## Manueller Lösungsweg in Acrobat
 
 Das manuelle Nachtaggen von Listen ist zeitaufwändig. Es wird empfohlen eine der oben stehenden Lösungswege vorzuziehen. Die benötigten Tags sind `<L>`, `<LI>`, `<Lbl>` und `<LBody>`.
+
