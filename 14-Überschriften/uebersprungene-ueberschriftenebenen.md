@@ -1,5 +1,5 @@
 ---
-Tags: Adobe InDesign, Microsoft Word, technische Prüfung
+tags: 'Adobe InDesign, Microsoft Word, technische Prüfung'
 ---
 
 ## Problembeschreibung
@@ -14,8 +14,7 @@ Damit alle die Struktur nachvollziehen können, dürfen Überschriftenebenen nic
 
 ### Prüfpunkt/e Matterhorn Protokoll
 
-> **14-003** Bei nummerierten Überschriften-Tags in absteigender Folge wird eine Ebene übersprungen  
-> **→ technische Prüfung**
+> **14-003** Bei nummerierten Überschriften-Tags in absteigender Folge wird eine Ebene übersprungen. → technische Prüfung
 
 ---
 
@@ -31,5 +30,5 @@ Die Überschriftenebenen können mithilfe der Formatvorlagen bestimmt werden, si
 
 ## Manueller Lösungweg in Acrobat
 
-Der vermutlich aufwendigste und unübersichtlichste Lösungsweg ist die Korrekturen im Tagbaum von Acrobat vorzunehmen. 
+Der vermutlich aufwendigste und unübersichtlichste Lösungsweg ist die Korrekturen im Tagbaum von Acrobat vorzunehmen.
 

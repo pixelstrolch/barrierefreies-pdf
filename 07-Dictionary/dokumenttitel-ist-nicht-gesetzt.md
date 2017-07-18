@@ -1,5 +1,5 @@
 ---
-Tags: Adobe InDesign, Microsoft Word, technische Prüfung
+tags: 'Adobe InDesign, Microsoft Word, technische Prüfung'
 ---
 
 ## Problembeschreibung
@@ -17,9 +17,8 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 ### Prüfpunkt/e Matterhorn Protokoll
 
-> **07-001** Das ViewerPreferences-Dictionary des Catalog-Dictionary enthält keinen Schlüssel DisplayDocTitle.  
-> **07-002** Das ViewerPreferences-Dictionary des Catalog-Dictionary enthält einen Schlüssel DisplayDocTitle mit dem Wert false.  
-> **→ technische Prüfung**
+> **07-001** Das ViewerPreferences-Dictionary des Catalog-Dictionary enthält keinen Schlüssel DisplayDocTitle. → technische Prüfung  
+> **07-002** Das ViewerPreferences-Dictionary des Catalog-Dictionary enthält einen Schlüssel DisplayDocTitle mit dem Wert false. → technische Prüfung
 
 ---
 
@@ -37,11 +36,11 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 Diese Korrektur ist ausserdem Bestandteil des Preflight-Profils «_Strukturprobleme getaggter PDF-Dokumente beheben»_.
 
-## Automatischer Lösungsweg in InDesign (ab CC 2015)
+## Automatischer Lösungsweg in InDesign \(ab CC 2015\)
 
 Seit Adobe InDesign CC 2015 wird in den PDF-Export-Einstellungen ein neuer Bereich mit dem Namen _«Barrierefreiheitsoptionen»_ im Register _«Erweitert»_ angezeigt. Darin kann der anzuzeigende Namen in _Dokumenttitel_ geändert werden.
 
-## Automatischer Lösungsweg in InDesign (MadeToTag)
+## Automatischer Lösungsweg in InDesign \(MadeToTag\)
 
 Mit der Verwendung des Plugins MadeToTag wird der Dokumenttitel automatisch definiert.
 

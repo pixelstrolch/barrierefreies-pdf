@@ -1,5 +1,5 @@
 ---
-tags: Microsoft Word, technische Prüfung
+tags: 'Microsoft Word, semantische Prüfung, technische Prüfung'
 ---
 
 ## Problembeschreibung
@@ -16,11 +16,9 @@ Problem festgestellt bei der PDF-Konvertierung aus:
 
 ### Prüfpunkt/e Matterhorn Protokoll
 
-> **01-001** Artefakte sind als realer Inhalt getaggt.  
-> **→ interaktive/semantische Prüfung**
+> **01-001** Artefakte sind als realer Inhalt getaggt. → semantische Prüfung
 >
-> **09-004** Ein Strukturelement, das im Zusammenhang mit einer Tabelle steht, wird in einer Weise verwendet, die nicht mit Tabelle 337 der ISO 32000-1 übereinstimmt.  
-> **→ technische Prüfung**
+> **09-004** Ein Strukturelement, das im Zusammenhang mit einer Tabelle steht, wird in einer Weise verwendet, die nicht mit Tabelle 337 der ISO 32000-1 übereinstimmt. → technische Prüfung
 
 ---
 

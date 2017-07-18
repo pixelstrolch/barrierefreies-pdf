@@ -1,5 +1,5 @@
 ---
-Tags: Microsoft Word
+tags: 'Microsoft Word, technische Prüfung'
 ---
 
 ## Problembeschreibung
@@ -41,6 +41,4 @@ Zu beachten gilt, dass die Lesereihenfolge \(Reihenfolge der Tags\) danach immer
    * Schlüssel: Placement
    * Wert: Block
    * Werttyp: Name
-
-
 

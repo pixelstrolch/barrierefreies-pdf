@@ -1,5 +1,5 @@
 ---
-tags: Microsoft Word, semantische Prüfung
+tags: 'Microsoft Word, semantische Prüfung'
 ---
 
 ## Problembeschreibung
@@ -16,8 +16,7 @@ Keine Warnung oder Fehlermeldung zu diesem Problem!
 
 ### Prüfpunkt/e Matterhorn Protokoll
 
-> **01-006** Der Strukturtyp und Attribute eines Strukturelementes sind nicht semantisch geeignet für das Strukturelement. Alle Strukturelemente müssen in Betracht gezogen werden.  
-> **→ semantische Prüfung**
+> **01-006** Der Strukturtyp und Attribute eines Strukturelementes sind nicht semantisch geeignet für das Strukturelement. Alle Strukturelemente müssen in Betracht gezogen werden. → semantische Prüfung
 
 ---
 

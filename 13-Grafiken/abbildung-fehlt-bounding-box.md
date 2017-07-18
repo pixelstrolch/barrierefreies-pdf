@@ -1,3 +1,7 @@
+---
+tags: 'Microsoft Word, technische Prüfung'
+---
+
 ## Problembeschreibung
 
 In PDFs, welche aus Word exportiert werden, fehlen bei allen vorhandenen Bildern die Bounding Box Attribute, egal mit welcher Layoutoption sie platziert wurden.

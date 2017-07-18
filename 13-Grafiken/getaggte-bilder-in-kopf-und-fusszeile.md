@@ -1,5 +1,5 @@
 ---
-Tags: Microsoft Word, semantische Prüfung
+tags: 'Microsoft Word, semantische Prüfung'
 ---
 
 ## Problembeschreibung
@@ -16,8 +16,7 @@ Keine Warnung oder Fehlermeldung zu diesem Problem!
 
 ### Prüfpunkt/e Matterhorn Protokoll
 
-> **01-001** Artefakte sind als realer Inhalt getaggt.  
-> **→ semantische Prüfung**
+> **01-001** Artefakte sind als realer Inhalt getaggt. → semantische Prüfung
 
 ---
 
