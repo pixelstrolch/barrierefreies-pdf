@@ -1,5 +1,5 @@
 ---
-tags: 'Adobe Indesign, Microsoft Word, semantische Prüfung'
+tags: 'Adobe InDesign, Microsoft Word, semantische Prüfung'
 ---
 
 ## Problembeschreibung
