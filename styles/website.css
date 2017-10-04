@@ -96,6 +96,14 @@ a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, 
     }
 }
 
+/* Article list */
+.panel>.list-group:last-child .list-group-item:last-child, .panel>.panel-collapse>.list-group:last-child .list-group-item:last-child {
+    border-bottom: 1px solid transparent;
+}
+.panel-heading+.list-group .list-group-item:first-child {
+    border-bottom: 1px solid transparent;
+}
+
 /* Content */
 .panel-default {
     border-color: #ced4da;
