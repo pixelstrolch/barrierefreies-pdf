@@ -1,5 +1,5 @@
 {
-    "plugins": [ "theme-faq", "tags", "meta-single", "sitemap", "noembed" ],
+    "plugins": [ "theme-faq", "tags", "meta-single", "sitemap", "modal-youtube-video" ],
     "pluginsConfig": {
         "meta-single": {
             "name": "google-site-verification",
