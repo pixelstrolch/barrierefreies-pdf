@@ -7,6 +7,9 @@
         },
         "sitemap": {
             "hostname": "https://www.barrierefreies-pdf.info/"
+        },
+        "tags": {
+            "placement": "bottom"
         }
     }
 }
