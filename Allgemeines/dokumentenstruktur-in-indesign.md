@@ -2,6 +2,7 @@
 tags: Adobe InDesign
 ---
 
+##Tags in InDesign festlegen
 In InDesign kann die Überschriftsebene innerhalb der Einstellungen der Absatzformate definiert werden. Unter _«Tagsexport»_ können die Tags für den PDF- sowie auch dem HTML/EPUB-Export definiert werden.
 
 {% youtube %}fg2Q3fdZyUg{% endyoutube %}

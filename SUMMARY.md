@@ -5,7 +5,7 @@
 * [Mithelfen](Allgemeines/mithelfen.md)
 * [Begriffe](GLOSSARY.md)
 * [Dokumentenstruktur in InDesign](Allgemeines/dokumentenstruktur-in-indesign.md)
-* [Mithilfe von Word-Formatvorlagen die PDF-Tags bestimmen](Allgemeines/mithilfe-von-word-formatvorlagen-die-pdf-tags-bestimmen.md)
+* [Dokumentenstruktur in Word](Allgemeines/dokumentenstruktur-in-word.md)
 
 ## 1. Getaggter realer Inhalt
 
