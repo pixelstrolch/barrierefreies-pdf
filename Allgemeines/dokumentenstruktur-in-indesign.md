@@ -6,6 +6,4 @@ In InDesign kann die Überschriftsebene innerhalb der Einstellungen der Absatzfo
 
 Im Menü des Panels _«Absatzformate»_ befindet sich der Befehl _«Alle Exporttags bearbeiten»_. Damit können, innerhalb einer Liste der vorhandenen Absatzformate, alle Exporttags auf einmal vergeben werden.
 
----
 tags: Adobe InDesign
----
