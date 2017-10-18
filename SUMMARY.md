@@ -2,10 +2,11 @@
 
 ## Allgemeines
 
+* [Introduction](README.md)
 * [Mithelfen](Allgemeines/mithelfen.md)
 * [Begriffe](GLOSSARY.md)
-* [Dokumentenstruktur in InDesign](Allgemeines/dokumentenstruktur-in-indesign.md)
-* [Dokumentenstruktur in Word](Allgemeines/dokumentenstruktur-in-word.md)
+* [Logische Dokumentenstruktur mit InDesign herstellen](Allgemeines/logische-dokumentenstruktur-mit-indesign-herstellen.md)
+* [Logische Dokumentenstruktur mit Word herstellen](Allgemeines/logische-dokumentenstruktur-mit-word-herstellen.md)
 
 ## 1. Getaggter realer Inhalt
 
@@ -33,11 +34,10 @@
 * [Übersprungene Überschriftenebenen](14-Überschriften/uebersprungene-ueberschriftenebenen.md)
 
 ## 16. Listen
+
 * [Liste ist nicht als Liste getaggt](16-Listen/liste-ist-nicht-als-liste-getaggt.md)
 
 ## Navigationshilfe
 
 * [Tags](tags.md)
-
-
 
