@@ -8,7 +8,7 @@ In InDesign kann die Überschriftsebene innerhalb der Absatzformateinstellungen 
 
 Im Flyout-Menü des Panels _«Absatzformate»_ befindet sich der Befehl _«Alle Exporttags bearbeiten»_. 
 
-![Wo befindet sich das Flyout-Menü der Absatzformate? Screenshot.](/assets/absatzformate_flyout.jpg)
+![Wo befindet sich das Flyout-Menü der Absatzformate? Screenshot.](/assets/absatzformate_flyout.png)
 
 Das Fenster, welches sich anschliessend öffnet, erlaubt es sehr schnell alle vorhandenen Absatzformate mit einem Exporttag zu versehen.
 
@@ -16,11 +16,11 @@ Das Fenster, welches sich anschliessend öffnet, erlaubt es sehr schnell alle vo
 
 Beim Export wird nur ein _Tagged PDF_ erstellt, wenn die Option «PDF mit Tags erstellen» aktiviert wurde. Diese Option existiert in den Exportoptionen von Adobe PDF (Druck)
 
-![Screenshot vom PDF-Exportdialog Druck.](/assets/Adobe_PDF_exportieren.jpg)
+![Screenshot vom PDF-Exportdialog Druck.](/assets/Adobe_PDF_exportieren.png)
 
 sowie auch für Adobe PDF (Interaktiv).
 
-![Screenshot vom PDF-Exportdialog Interaktiv.](/assets/Als_interaktive_PDF_exportieren.jpg)
+![Screenshot vom PDF-Exportdialog Interaktiv.](/assets/Als_interaktive_PDF_exportieren.png)
 
 ###Rollenzuordnung der _Tags_
 
