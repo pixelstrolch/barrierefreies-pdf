@@ -1,5 +1,5 @@
 {
-    "plugins": [ "tags", "meta-single", "sitemap", "videoclips" ],
+    "plugins": [ "meta-single", "sitemap", "videoclips" ],
     "pluginsConfig": {
         "meta-single": {
             "name": "google-site-verification",
@@ -7,9 +7,6 @@
         },
         "sitemap": {
             "hostname": "https://www.barrierefreies-pdf.info/"
-        },
-        "tags": {
-            "placement": "bottom"
         }
     }
 }
